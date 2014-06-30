@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Comunidad de Madrid</name>
+  <description><![CDATA[Proyecto MESI: Mapa de Enseñanza de la Seguridad de la Información (España)
+
+Enseñanzas de Grado.
+- Marcador color rojo: Grados de Informática
+- Marcador color azul: Grados de Telecomunicaciones
+- Marcador color verde: Otros Grados]]></description>
+  <Style id="style8">
+    <LineStyle>
+      <color>B3CC0066</color>
+      <width>6</width>
+    </LineStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style28">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style27">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style26">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style29">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Comunidad de Madrid</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style8</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -3.543549,41.166248,0.000000
+        -3.606720,41.151775,0.000000
+        -3.647919,41.120747,0.000000
+        -3.672638,41.085564,0.000000
+        -3.738556,41.060715,0.000000
+        -3.777008,41.006847,0.000000
+        -3.823700,40.988194,0.000000
+        -3.889618,40.965382,0.000000
+        -3.925324,40.932190,0.000000
+        -3.941803,40.909363,0.000000
+        -3.950043,40.863682,0.000000
+        -3.972015,40.809650,0.000000
+        -3.978424,40.793018,0.000000
+        -3.996735,40.786781,0.000000
+        -4.079132,40.788860,0.000000
+        -4.095612,40.761822,0.000000
+        -4.123077,40.738934,0.000000
+        -4.147797,40.691051,0.000000
+        -4.175263,40.676472,0.000000
+        -4.167023,40.643135,0.000000
+        -4.165192,40.623333,0.000000
+        -4.199982,40.607697,0.000000
+        -4.254913,40.601440,0.000000
+        -4.276886,40.624374,0.000000
+        -4.287415,40.628548,0.000000
+        -4.293366,40.611866,0.000000
+        -4.290619,40.584759,0.000000
+        -4.294281,40.570152,0.000000
+        -4.315338,40.553459,0.000000
+        -4.326325,40.532589,0.000000
+        -4.323578,40.503357,0.000000
+        -4.320831,40.469936,0.000000
+        -4.329071,40.444859,0.000000
+        -4.338226,40.431271,0.000000
+        -4.324493,40.419769,0.000000
+        -4.338226,40.407223,0.000000
+        -4.367523,40.405132,0.000000
+        -4.419708,40.405132,0.000000
+        -4.442825,40.386307,0.000000
+        -4.442825,40.354916,0.000000
+        -4.456558,40.340263,0.000000
+        -4.456558,40.321419,0.000000
+        -4.489517,40.319324,0.000000
+        -4.508743,40.311996,0.000000
+        -4.521103,40.330845,0.000000
+        -4.529343,40.340263,0.000000
+        -4.545822,40.340263,0.000000
+        -4.541702,40.324562,0.000000
+        -4.530716,40.294193,0.000000
+        -4.548569,40.280575,0.000000
+        -4.568024,40.252281,0.000000
+        -4.565277,40.229218,0.000000
+        -4.576263,40.208244,0.000000
+        -4.535065,40.199856,0.000000
+        -4.513092,40.214539,0.000000
+        -4.441681,40.237606,0.000000
+        -4.436188,40.258568,0.000000
+        -4.419708,40.266953,0.000000
+        -4.381256,40.296288,0.000000
+        -4.383774,40.316185,0.000000
+        -4.356308,40.305714,0.000000
+        -4.354935,40.269047,0.000000
+        -4.343948,40.244942,0.000000
+        -4.328842,40.231316,0.000000
+        -4.305496,40.233414,0.000000
+        -4.297256,40.218735,0.000000
+        -4.272537,40.231316,0.000000
+        -4.246445,40.271145,0.000000
+        -4.229965,40.272190,0.000000
+        -4.209366,40.270096,0.000000
+        -4.198380,40.290001,0.000000
+        -4.188767,40.297333,0.000000
+        -4.169540,40.282669,0.000000
+        -4.155808,40.271145,0.000000
+        -4.143448,40.261711,0.000000
+        -4.151688,40.248089,0.000000
+        -4.125595,40.249138,0.000000
+        -4.110489,40.243896,0.000000
+        -4.089890,40.248089,0.000000
+        -4.080277,40.264858,0.000000
+        -4.048691,40.252281,0.000000
+        -4.025345,40.248089,0.000000
+        -4.029465,40.239700,0.000000
+        -3.984146,40.210342,0.000000
+        -3.956680,40.208244,0.000000
+        -3.949814,40.191463,0.000000
+        -3.934708,40.201954,0.000000
+        -3.901749,40.186218,0.000000
+        -3.878403,40.190414,0.000000
+        -3.849564,40.175728,0.000000
+        -3.852310,40.165234,0.000000
+        -3.839951,40.162083,0.000000
+        -3.812485,40.174675,0.000000
+        -3.791885,40.169430,0.000000
+        -3.774033,40.147388,0.000000
+        -3.743820,40.131641,0.000000
+        -3.716354,40.148438,0.000000
+        -3.684769,40.130592,0.000000
+        -3.666916,40.136890,0.000000
+        -3.610611,40.106438,0.000000
+        -3.616104,40.093830,0.000000
+        -3.614731,40.083324,0.000000
+        -3.621597,40.067562,0.000000
+        -3.642197,40.048641,0.000000
+        -3.657303,40.029716,0.000000
+        -3.676529,40.020252,0.000000
+        -3.698502,40.017097,0.000000
+        -3.721848,39.998165,0.000000
+        -3.730087,39.984486,0.000000
+        -3.746567,39.971859,0.000000
+        -3.724594,39.966595,0.000000
+        -3.749313,39.962387,0.000000
+        -3.761673,39.964493,0.000000
+        -3.782272,39.949753,0.000000
+        -3.798752,39.948700,0.000000
+        -3.815002,39.948700,0.000000
+        -3.830338,39.932907,0.000000
+        -3.849564,39.941330,0.000000
+        -3.875656,39.927643,0.000000
+        -3.872910,39.912895,0.000000
+        -3.855057,39.904469,0.000000
+        -3.812485,39.884449,0.000000
+        -3.756180,39.922375,0.000000
+        -3.742447,39.932907,0.000000
+        -3.710861,39.955017,0.000000
+        -3.690262,39.952911,0.000000
+        -3.665314,39.964493,0.000000
+        -3.636704,39.965542,0.000000
+        -3.632584,39.988693,0.000000
+        -3.584518,40.010788,0.000000
+        -3.524094,40.019199,0.000000
+        -3.506241,40.042336,0.000000
+        -3.458176,40.044437,0.000000
+        -3.445816,40.038128,0.000000
+        -3.422470,40.046539,0.000000
+        -3.401871,40.031822,0.000000
+        -3.388138,40.048641,0.000000
+        -3.375778,40.058102,0.000000
+        -3.378525,40.074921,0.000000
+        -3.333206,40.080173,0.000000
+        -3.296127,40.049694,0.000000
+        -3.263168,40.056000,0.000000
+        -3.224716,40.058102,0.000000
+        -3.178024,40.085426,0.000000
+        -3.165665,40.088577,0.000000
+        -3.161545,40.065460,0.000000
+        -3.131332,40.063358,0.000000
+        -3.106613,40.065460,0.000000
+        -3.050308,40.096985,0.000000
+        -3.073654,40.135841,0.000000
+        -3.100891,40.147388,0.000000
+        -3.090134,40.161034,0.000000
+        -3.070908,40.155785,0.000000
+        -3.080521,40.180973,0.000000
+        -3.083267,40.206146,0.000000
+        -3.084641,40.242847,0.000000
+        -3.098373,40.269047,0.000000
+        -3.116226,40.283714,0.000000
+        -3.156052,40.260666,0.000000
+        -3.176651,40.232365,0.000000
+        -3.197250,40.256474,0.000000
+        -3.186264,40.278477,0.000000
+        -3.182144,40.308853,0.000000
+        -3.153305,40.338169,0.000000
+        -3.147812,40.363289,0.000000
+        -3.136826,40.392582,0.000000
+        -3.145065,40.421860,0.000000
+        -3.157425,40.442768,0.000000
+        -3.187637,40.436497,0.000000
+        -3.204117,40.453217,0.000000
+        -3.199997,40.492916,0.000000
+        -3.205490,40.519020,0.000000
+        -3.239822,40.541981,0.000000
+        -3.292007,40.533634,0.000000
+        -3.290634,40.549286,0.000000
+        -3.290634,40.571198,0.000000
+        -3.316727,40.585800,0.000000
+        -3.327484,40.599358,0.000000
+        -3.327713,40.614994,0.000000
+        -3.330460,40.635841,0.000000
+        -3.374405,40.633759,0.000000
+        -3.360672,40.648346,0.000000
+        -3.362045,40.662930,0.000000
+        -3.399124,40.694176,0.000000
+        -3.404617,40.669182,0.000000
+        -3.422470,40.683762,0.000000
+        -3.451309,40.678555,0.000000
+        -3.466415,40.695217,0.000000
+        -3.433456,40.730610,0.000000
+        -3.452683,40.736851,0.000000
+        -3.444443,40.752460,0.000000
+        -3.465042,40.783661,0.000000
+        -3.508987,40.790939,0.000000
+        -3.487015,40.813808,0.000000
+        -3.471909,40.842903,0.000000
+        -3.470535,40.860565,0.000000
+        -3.445816,40.876141,0.000000
+        -3.440323,40.894829,0.000000
+        -3.460922,40.904171,0.000000
+        -3.444443,40.909363,0.000000
+        -3.438950,40.942562,0.000000
+        -3.421097,40.975750,0.000000
+        -3.397751,41.001667,0.000000
+        -3.408737,41.020321,0.000000
+        -3.437576,41.042072,0.000000
+        -3.436203,41.054501,0.000000
+        -3.425217,41.082458,0.000000
+        -3.449936,41.083492,0.000000
+        -3.474655,41.093842,0.000000
+        -3.491135,41.097980,0.000000
+        -3.495255,41.116608,0.000000
+        -3.517227,41.139366,0.000000
+        -3.529587,41.142467,0.000000
+        -3.541946,41.150742,0.000000
+        -3.543549,41.166248,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Universidad de Alcalá</name>
+    <description><![CDATA[<font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.uah.es/estudios/asignaturas/lstAsignaturas_v3.asp?CodCentro=210&amp;CodPlan=G780" target="_blank">Grado en Ingeniería Informática</a><br><u>Asignatura</u><br>- <a href="http://www.uah.es/centros_departamentos/departamentos/print_asignatura_v3.asp?CodAsig=780036" target="_blank">Seguridad</a><br></font><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2010/03/23/pdfs/BOE-A-2010-4842.pdf" target="_blank">BOE</a><br><br></font></font><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.uah.es/estudios/grados/planes.asp?cd=210&amp;plan=G58&amp;origen=estudios&amp;T=INGENIERIA_Y_ARQUITECTURA" target="_blank">Grado en Sistemas de Información</a><br><u>Asignatura</u><br>- <a href="http://www.uah.es/centros_departamentos/departamentos/print_asignatura_v3.asp?CodDepto=&amp;CodAsig=580015" target="_blank">Seguridad en Sistemas Distribuidos</a><br></font><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2010/03/23/pdfs/BOE-A-2010-4844.pdf" target="_blank">BOE</a><br><br></font></font><font face="times new roman,serif"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.uah.es/estudios/asignaturas/lstAsignaturas_v3.asp?CodCentro=210&amp;CodPlan=G59" target="_blank">Grado en Ingeniería de los Computadores</a><br><u>Asignaturas<br></u>- <a href="http://www.uah.es/centros_departamentos/departamentos/print_asignatura_v3.asp?CodAsig=780036" target="_blank">Seguridad</a><u><br></u>- <a href="http://www.uah.es/centros_departamentos/departamentos/print_asignatura_v3.asp?CodAsig=580015" target="_blank">Seguridad en Sistemas Distribuidos</a><br></font></font><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2010/03/23/pdfs/BOE-A-2010-4840.pdf" target="_blank">BOE</a><br><br></font></font><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-madrid/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+alcala+de+henares&amp;hl=es&amp;ie=UTF8&amp;sll=40.550592,-4.011726&amp;sspn=0.052174,0.110378&amp;hq=residencias+de+estudiantes&amp;hnear=Alcal%C3%A1+de+Henares,+Madrid,+Comunidad+de+Madrid&amp;t=m&amp;z=13" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.uah.es/" target="_blank">Link </a>de la universidad</font></li></ul>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-3.364059,40.480942,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad de Alcalá</name>
+    <description><![CDATA[<font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.uah.es/estudios/grados/planes.asp?cd=203&amp;plan=G38&amp;origen=estudios&amp;T=INGENIERIA_Y_ARQUITECTURA" target="_blank">Grado en Ingeniería Telemática</a><br><u>Asignatura</u><br>- <a href="http://www.uah.es/centros_departamentos/departamentos/print_asignatura_v3.asp?CodAsig=380002" target="_blank">Seguridad</a><br></font><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2011/03/09/pdfs/BOE-A-2011-4390.pdf" target="_blank">BOE</a><br></font></font><font face="times new roman,serif"><font face="times new roman,serif"><br></font></font><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-madrid/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+alcala+de+henares&amp;hl=es&amp;ie=UTF8&amp;sll=40.550592,-4.011726&amp;sspn=0.052174,0.110378&amp;hq=residencias+de+estudiantes&amp;hnear=Alcal%C3%A1+de+Henares,+Madrid,+Comunidad+de+Madrid&amp;t=m&amp;z=13" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.uah.es/" target="_blank">Link </a>de la universidad</font></li></ul>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>-3.364177,40.480804,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Alfonso X el Sabio</name>
+    <description><![CDATA[<font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.uax.es/que-estudiar/grados-en-la-uax/ingenierias/grado-en-ingenieria-informatica/plan-de-estudios.html" target="_blank">Grado en Ingeniería Informática</a><br><u>Asignaturas</u><br>- <a href="http://campus.uax.es/asignatura/html_alumno/asig_prog.php?cod_asig=0441430&amp;prev=publico" target="_blank">Seguridad en las Comunicaciones</a><br></font><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2009/03/07/pdfs/BOE-A-2009-3957.pdf" target="_blank">BOE</a><br><br></font></font><font face="times new roman,serif"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.uax.es/que-estudiar/grados-en-la-uax/ingenierias/grado-en-ingenieria-de-sistemas-de-informacion/plan-de-estudios.html" target="_blank">Grado en Ingeniería en Sistemas de Información</a><br><u>Asignatura</u><br>- Seguridad en los Sistemas de Información</font></font><br><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2009/12/21/pdfs/BOE-A-2009-20644.pdf" target="_blank">BOE</a><br><br></font></font><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-madrid/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+madrid&amp;hl=es&amp;ll=40.45374,-3.67424&amp;spn=0.208996,0.441513&amp;sll=43.103991,-2.414246&amp;sspn=0.401064,0.883026&amp;hq=residencias+de+estudiantes&amp;hnear=Madrid,+Comunidad+de+Madrid&amp;t=m&amp;z=11" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.uax.es/" target="_blank">Link </a>de la universidad</font></li></ul>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>-3.987222,40.450996,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Alfonso X el Sabio</name>
+    <description><![CDATA[<font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.uax.es/que-estudiar/grados-en-la-uax/ingenierias/grado-en-ingenieria-de-sistemas-de-telecomunicacion/plan-de-estudios.html" target="_blank">Grado en Ingeniería en Sistemas de Telecomunicación</a><br><u>Asignatura</u><br>- <a href="http://campus.uax.es/asignatura/html_alumno/asig_prog.php?cod_asig=0441132&amp;prev=publico" target="_blank">Seguridad en las Comunicaciónes</a></font><br><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2011/08/06/pdfs/BOE-A-2011-13547.pdf" target="_blank">BOE</a><br><br></font></font><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.uax.es/que-estudiar/grados-en-la-uax/ingenierias/grado-en-ingenieria-telematica/plan-de-estudios.html" target="_blank">Grado en Ingeniería Telemática</a><br><u>Asignatura</u><br>- </font><font face="times new roman,serif"><font face="times new roman,serif"><a href="http://campus.uax.es/asignatura/html_alumno/asig_prog.php?cod_asig=0441304&amp;prev=publico" target="_blank">Seguridad en Redes de Comunicaciones</a><br></font></font><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2011/04/26/pdfs/BOE-A-2011-7473.pdf" target="_blank">BOE</a></font></font><br><br><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-madrid/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+madrid&amp;hl=es&amp;ll=40.45374,-3.67424&amp;spn=0.208996,0.441513&amp;sll=43.103991,-2.414246&amp;sspn=0.401064,0.883026&amp;hq=residencias+de+estudiantes&amp;hnear=Madrid,+Comunidad+de+Madrid&amp;t=m&amp;z=11" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.uax.es/" target="_blank">Link </a>de la universidad</font></li></ul>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>-3.988080,40.450947,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Antonio de Nebrija</name>
+    <description><![CDATA[<font face="times new roman,serif"><u>Titulación:</u><br>Grado en Ingeniería Informática<br><br><u>Asignatura</u><br>- Seguridad Informática<br><br></font><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2009/04/14/pdfs/BOE-A-2009-6280.pdf" target="_blank">BOE</a></font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-madrid/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+madrid&amp;hl=es&amp;ll=40.45374,-3.67424&amp;spn=0.208996,0.441513&amp;sll=43.103991,-2.414246&amp;sspn=0.401064,0.883026&amp;hq=residencias+de+estudiantes&amp;hnear=Madrid,+Comunidad+de+Madrid&amp;t=m&amp;z=11" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.nebrija.com/" target="_blank">Link </a>de la universidad</font></li></ul>]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>-3.718733,40.453587,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Autónoma de Madrid</name>
+    <description><![CDATA[<font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.uam.es/ss/Satellite/EscuelaPolitecnica/es/estudios/grado-3/Page/contenidoFinal/grado-en-ingenieria-informatica-3.htm" target="_blank">Grado en Ingeniería Informática</a><br><br><u>Asignatura</u><br>- <a href="http://www.uam.es/ss/Satellite/EscuelaPolitecnica/es/estudios/grado-3/grado-en-ingenieria-informatica-3/guiadocente/detalle/curso-4-2013-2014-2.htm" target="_blank">Fundamentos de la Criptografía y Seguridad Informática</a><br><br></font><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2009/12/07/pdfs/BOE-A-2009-19763.pdf" target="_blank">BOE</a></font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-madrid/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+madrid&amp;hl=es&amp;ll=40.45374,-3.67424&amp;spn=0.208996,0.441513&amp;sll=43.103991,-2.414246&amp;sspn=0.401064,0.883026&amp;hq=residencias+de+estudiantes&amp;hnear=Madrid,+Comunidad+de+Madrid&amp;t=m&amp;z=11" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.uam.es/ss/Satellite/es/home/" target="_blank">Link </a>de la universidad</font></li></ul>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>-3.691637,40.547031,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Autónoma de Madrid</name>
+    <description><![CDATA[<font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.uam.es/ss/Satellite/Ciencias/es/1242655568413/contenidoFinal/Matematicas.htm" target="_blank">Grado en Matemáticas</a><br><br><u>Asignatura</u><br>- <a href="http://www.uam.es/ss/Satellite?blobcol=urldata&amp;blobheader=application%2Fpdf&amp;blobheadername1=Content-disposition&amp;blobheadername2=pragma&amp;blobheadervalue1=attachment%3B+filename%3D16471_Teoria_Codigos.pdf&amp;blobheadervalue2=public&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1242763033734&amp;ssbinary=true" target="_blank">Teoría de Códigos y Criptografía</a><br><br></font><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2009/11/26/pdfs/BOE-A-2009-18896.pdf" target="_blank">BOE</a></font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-madrid/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+madrid&amp;hl=es&amp;ll=40.45374,-3.67424&amp;spn=0.208996,0.441513&amp;sll=43.103991,-2.414246&amp;sspn=0.401064,0.883026&amp;hq=residencias+de+estudiantes&amp;hnear=Madrid,+Comunidad+de+Madrid&amp;t=m&amp;z=11" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.uam.es/ss/Satellite/es/home/" target="_blank">Link </a>de la universidad</font></li></ul>]]></description>
+    <styleUrl>#style28</styleUrl>
+    <Point>
+      <coordinates>-3.696856,40.544819,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Carlos III de Madrid (Colmenarejo)</name>
+    <description><![CDATA[<font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.uc3m.es/portal/page/portal/titulaciones_grado/infor/plan" target="_blank">Grado en Ingeniería Informática</a><br><br><u>Asignaturas</u><br>- <a href="http://www3.uc3m.es/reina/Fichas/Idioma_1/218.15761.html" target="_blank">Seguridad en Dispositivos Móviles</a><br>- <a href="http://www3.uc3m.es/reina/Fichas/Idioma_1/218.15973.html" target="_blank">Criptografía y Seguridad Informática</a><br>- <a href="http://www3.uc3m.es/reina/Fichas/Idioma_1/218.13893.html" target="_blank">Ingeniería de la Seguridad</a><br></font><font face="times new roman,serif"><font face="times new roman,serif"><br></font></font><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2009/03/24/pdfs/BOE-A-2009-4959.pdf" target="_blank">BOE</a></font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-madrid/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+colmenarejo&amp;hl=es&amp;ll=40.550592,-4.011726&amp;spn=0.052174,0.110378&amp;sll=40.332544,-3.747196&amp;sspn=0.052343,0.110378&amp;hq=residencias+de+estudiantes&amp;hnear=Colmenarejo,+Madrid,+Comunidad+de+Madrid&amp;t=m&amp;z=13" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.uc3m.es/portal/page/portal/inicio" target="_blank">Link </a>de la universidad</font></li></ul>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>-4.012091,40.544445,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Carlos III de Madrid (Leganés)</name>
+    <description><![CDATA[<font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.uc3m.es/portal/page/portal/titulaciones_grado/infor/plan" target="_blank">Grado en Ingeniería Informática</a><br><br><u>Asignaturas</u><br>- <a href="http://www3.uc3m.es/reina/Fichas/Idioma_1/218.15761.html" target="_blank">Seguridad en Dispositivos Móviles</a><br>- <a href="http://www3.uc3m.es/reina/Fichas/Idioma_1/218.15973.html" target="_blank">Criptografía y Seguridad Informática</a><br>- <a href="http://www3.uc3m.es/reina/Fichas/Idioma_1/218.13893.html" target="_blank">Ingeniería de la Seguridad</a></font><font face="times new roman,serif"><font face="times new roman,serif"><br><br></font></font><font face="times new roman,serif"></font><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2009/03/24/pdfs/BOE-A-2009-4959.pdf" target="_blank">BOE</a></font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-madrid/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+legan%C3%A9s&amp;hl=es&amp;ie=UTF8&amp;ll=40.332544,-3.747196&amp;spn=0.052343,0.110378&amp;sll=40.330057,-3.760757&amp;sspn=0.052345,0.110378&amp;hq=residencias+de+estudiantes&amp;hnear=Legan%C3%A9s,+Madrid,+Comunidad+de+Madrid&amp;t=m&amp;z=13" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.uc3m.es/portal/page/portal/inicio" target="_blank">Link </a>de la universidad</font></li></ul>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>-3.767474,40.331676,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Carlos III de Madrid (Aranjuez)</name>
+    <description><![CDATA[<font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.uc3m.es/portal/page/portal/titulaciones_grado/ing_seguridad" target="_blank">Grado en Ingeniería de la Seguridad</a><br><u><br>Asignaturas</u><br>- <a href="http://www3.uc3m.es/reina/Fichas/Idioma_1/272.16372.html" target="_blank">Informática Forense</a><br>- <a href="http://www3.uc3m.es/reina/Fichas/Idioma_1/272.16348.html" target="_blank">Técnicas de Ocultación de la Información</a><br>- <a href="http://www3.uc3m.es/reina/Fichas/Idioma_1/272.16354.html" target="_blank">Vulnerabilidades, Amenazas y Protocolos de Seguridad Informáticos</a><br>- <a href="http://www3.uc3m.es/reina/Fichas/Idioma_1/272.16359.html" target="_blank">Administración y Gestión de la Seguridad de la Información</a></font><font face="times new roman,serif"><font face="times new roman,serif"><br></font></font><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2012/03/23/pdfs/BOE-A-2012-4090.pdf" target="_blank">BOE</a></font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-madrid/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+legan%C3%A9s&amp;hl=es&amp;ie=UTF8&amp;ll=40.332544,-3.747196&amp;spn=0.052343,0.110378&amp;sll=40.330057,-3.760757&amp;sspn=0.052345,0.110378&amp;hq=residencias+de+estudiantes&amp;hnear=Legan%C3%A9s,+Madrid,+Comunidad+de+Madrid&amp;t=m&amp;z=13" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.uc3m.es/portal/page/portal/inicio" target="_blank">Link </a>de la universidad</font></li></ul>]]></description>
+    <styleUrl>#style27</styleUrl>
+    <Point>
+      <coordinates>-3.768139,40.331642,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Carlos III de Madrid (Leganés)</name>
+    <description><![CDATA[<font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.uc3m.es/portal/page/portal/titulaciones_grado/tec_teleco/plan" target="_blank">Grado en Ingeniería en Tecnologías de Telecomunicación</a><br><br><u>Asignatura</u><br>- <a href="http://www3.uc3m.es/reina/Fichas/Idioma_1/252.15392.html" target="_blank">Fundamentos de Seguridad en Comunicaciones Sonido e Imagen</a><br></font><font face="times new roman,serif"><font face="times new roman,serif"><u></u></font></font><font face="times new roman,serif"><font face="times new roman,serif"><br></font></font><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2011/02/10/pdfs/BOE-A-2011-2604.pdf" target="_blank">BOE</a></font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-madrid/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+legan%C3%A9s&amp;hl=es&amp;ie=UTF8&amp;ll=40.332544,-3.747196&amp;spn=0.052343,0.110378&amp;sll=40.330057,-3.760757&amp;sspn=0.052345,0.110378&amp;hq=residencias+de+estudiantes&amp;hnear=Legan%C3%A9s,+Madrid,+Comunidad+de+Madrid&amp;t=m&amp;z=13" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.uc3m.es/portal/page/portal/inicio" target="_blank">Link </a>de la universidad</font></li></ul>]]></description>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>-3.767302,40.331577,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Complutense de Madrid</name>
+    <description><![CDATA[<div dir="ltr" align="left"><div dir="ltr" align="left"><font face="times new roman,serif"><u>Titulación:</u><br></font><font face="times new roman,serif"><font face="times new roman,serif"><a href="http://www.ucm.es/estudios/grado-ingenieriadecomputadores" target="_blank">Grado en Ingeniería de Computadores</a><br></font><u>Asignaturas</u></font><font face="times new roman,serif"><font face="times new roman,serif"><br>- <a href="http://web.fdi.ucm.es/fdi_info/Pub/ImpresoFichaDocente.aspx?Id=330" target="_blank">Seguridad en Redes</a><br>- <a href="http://web.fdi.ucm.es/fdi_info/Pub/ImpresoFichaDocente.aspx?Id=238" target="_blank">Ética, Legislación y Profesión</a></font></font><br><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2011/04/27/pdfs/BOE-A-2011-7531.pdf" target="_blank">BOE</a><br><br></font></font><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.ucm.es/estudios/grado-ingenieriadelsoftware" target="_blank">Grado en Ingeniería de Software</a><br><u>Asignaturas</u><br>- </font><font face="times new roman,serif"><font face="times new roman,serif"><a href="http://www.fdi.ucm.es/Pub/ImpresoFichaDocente.aspx?Id=319" target="_blank">Criptografía y Teoría de Códigos</a><br>- <a href="http://www.fdi.ucm.es/Pub/ImpresoFichaDocente.aspx?Id=331" target="_blank">Seguridad en redes</a><br>- <a href="http://web.fdi.ucm.es/fdi_info/Pub/ImpresoFichaDocente.aspx?Id=257" target="_blank">Ética, Legislación y Profesión</a><br></font></font><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2011/04/26/pdfs/BOE-A-2011-7464.pdf" target="_blank">BOE</a><br><br></font></font><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.ucm.es/estudios/grado-ingenieriainformatica" target="_blank">Grado en Ingeniería Informática</a><br><u>Asignaturas</u><br>- </font><font face="times new roman,serif"><font face="times new roman,serif"><a href="http://web.fdi.ucm.es/fdi_info/Pub/ImpresoFichaDocente.aspx?Id=276" target="_blank">Criptografía y Teoría de Códigos</a><br>- <a href="http://web.fdi.ucm.es/fdi_info/Pub/ImpresoFichaDocente.aspx?Id=283" target="_blank">Redes y Seguridad</a></font></font></font></font><br>-<font face="times new roman,serif"> <a href="http://web.fdi.ucm.es/fdi_info/Pub/ImpresoFichaDocente.aspx?Id=129" target="_blank">Seguridad en Redes</a></font><br><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2011/04/26/pdfs/BOE-A-2011-7465.pdf" target="_blank">BOE</a><br><br></font></font><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-madrid/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+madrid&amp;hl=es&amp;ll=40.45374,-3.67424&amp;spn=0.208996,0.441513&amp;sll=43.103991,-2.414246&amp;sspn=0.401064,0.883026&amp;hq=residencias+de+estudiantes&amp;hnear=Madrid,+Comunidad+de+Madrid&amp;t=m&amp;z=11" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.ucm.es/" target="_blank">Link </a>de la universidad</font></li></ul></div></div>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>-3.733259,40.452858,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad a Distancia de Madrid</name>
+    <description><![CDATA[<font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.udima.es/es/grado-ingenieria-informatica.html" target="_blank">Grado en Ingeniería Informática</a><br><br><u>Asignaturas<br></u>- Auditoría de Sistemas Informáticos<br>- <a href="http://www.udima.es/es/seguridad-redes-criptografia.html" target="_blank">Seguridad en Redes y Criptografía</a><a href="http://www.udima.es/es/auditoria-seguridad-informatica.html" target="_blank"></a><br><br></font><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en BOE: No aparece a 10/2013<br></font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-madrid/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+madrid&amp;hl=es&amp;ll=40.45374,-3.67424&amp;spn=0.208996,0.441513&amp;sll=43.103991,-2.414246&amp;sspn=0.401064,0.883026&amp;hq=residencias+de+estudiantes&amp;hnear=Madrid,+Comunidad+de+Madrid&amp;t=m&amp;z=11" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.udima.es/" target="_blank">Link </a>de la universidad</font></li></ul>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>-3.954346,40.589928,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad a Distancia de Madrid</name>
+    <description><![CDATA[<font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.udima.es/es/grado-criminologia.html" target="_blank">Grado en Criminología</a><br><br><u>Asignatura</u><br>- Cibercriminología<a href="http://www.udima.es/es/auditoria-seguridad-informatica.html" target="_blank"></a><br><br></font><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2012/03/28/pdfs/BOE-A-2012-4298.pdf" target="_blank">BOE</a></font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-madrid/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+madrid&amp;hl=es&amp;ll=40.45374,-3.67424&amp;spn=0.208996,0.441513&amp;sll=43.103991,-2.414246&amp;sspn=0.401064,0.883026&amp;hq=residencias+de+estudiantes&amp;hnear=Madrid,+Comunidad+de+Madrid&amp;t=m&amp;z=11" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.udima.es/" target="_blank">Link </a>de la universidad</font></li></ul>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>-3.954509,40.589802,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Europea de Madrid</name>
+    <description><![CDATA[<div dir="ltr" align="left"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.uem.es/titulacion/grado-en-ingenieria-informatica" target="_blank">Grado en Ingeniería Infomática</a><br></font><font face="times new roman,serif"><br><u>Asignatura</u><br>- Seguridad en Redes</font><br><br><font face="times new roman,serif"><a href="http://campusvirtual.uem.es/moodle/uxxi-mo/verprograma_esp.php?asignatura=9988001830" target="_blank"></a></font><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2009/01/07/pdfs/BOE-A-2009-309.pdf" target="_blank">BOE</a></font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-madrid/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+madrid&amp;hl=es&amp;ll=40.45374,-3.67424&amp;spn=0.208996,0.441513&amp;sll=43.103991,-2.414246&amp;sspn=0.401064,0.883026&amp;hq=residencias+de+estudiantes&amp;hnear=Madrid,+Comunidad+de+Madrid&amp;t=m&amp;z=11" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.uem.es/" target="_blank">Link </a>de la universidad</font></li></ul></div>]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>-3.920789,40.373753,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Europea de Madrid</name>
+    <description><![CDATA[<div dir="ltr" align="left"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.uem.es/titulacion/grado-en-ingenieria-de-sistemas-de-telecomunicacion" target="_blank">Grado en Ingeniería de Sistemas de Telecomunicación</a><br></font><font face="times new roman,serif"><br><u>Asignatura</u><br>- Seguridad en Redes de Telecomunicaciones</font><br><br><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2010/07/06/pdfs/BOE-A-2010-10747.pdf" target="_blank">BOE</a></font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-madrid/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+madrid&amp;hl=es&amp;ll=40.45374,-3.67424&amp;spn=0.208996,0.441513&amp;sll=43.103991,-2.414246&amp;sspn=0.401064,0.883026&amp;hq=residencias+de+estudiantes&amp;hnear=Madrid,+Comunidad+de+Madrid&amp;t=m&amp;z=11" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.uem.es/" target="_blank">Link </a>de la universidad</font></li></ul></div>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-3.920553,40.373489,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Europea de Madrid</name>
+    <description><![CDATA[<div dir="ltr" align="left"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.uem.es/titulacion/grado-en-criminologia-y-direccion-de-seguridad" target="_blank">Grado en Criminología</a><br></font><font face="times new roman,serif"><br><u>Asignatura</u><br>- <a href="http://www.uem.es/myfiles/pr/9977001809.pdf" target="_blank">Gestión de Riesgos Tecnológicos</a></font><br><br><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2010/02/08/pdfs/BOE-A-2010-2081.pdf" target="_blank">BOE</a></font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-madrid/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+madrid&amp;hl=es&amp;ll=40.45374,-3.67424&amp;spn=0.208996,0.441513&amp;sll=43.103991,-2.414246&amp;sspn=0.401064,0.883026&amp;hq=residencias+de+estudiantes&amp;hnear=Madrid,+Comunidad+de+Madrid&amp;t=m&amp;z=11" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.uem.es/" target="_blank">Link </a>de la universidad</font></li></ul></div>]]></description>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>-3.921046,40.373653,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Francisco de Vitoria</name>
+    <description><![CDATA[<font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.ingenieriaufv.com/index.php?id=76" target="_blank">Grado en Ingeniería Informática</a><br><br><u>Asignatura</u><br>- Seguridad<br><br></font><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2011/01/13/pdfs/BOE-A-2011-691.pdf" target="_blank">BOE</a></font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-madrid/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+madrid&amp;hl=es&amp;ll=40.45374,-3.67424&amp;spn=0.208996,0.441513&amp;sll=43.103991,-2.414246&amp;sspn=0.401064,0.883026&amp;hq=residencias+de+estudiantes&amp;hnear=Madrid,+Comunidad+de+Madrid&amp;t=m&amp;z=11" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.ufv.es/" target="_blank">Link </a>de la universidad</font></li></ul>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>-3.834958,40.439892,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Nacional de Educación a Distancia</name>
+    <description><![CDATA[<font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://portal.uned.es/portal/page?_pageid=93,22985816&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Grado en Ingenieria Informática</a><br><br><u>Asignaturas</u><br>- </font><font face="times new roman,serif"><font face="times new roman,serif"><a href="http://portal.uned.es/portal/page?_pageid=93,25435733&amp;_dad=portal&amp;_schema=PORTAL&amp;idAsignatura=71013124" target="_blank"><a href="http://portal.uned.es/portal/page?_pageid=93,27302119&amp;_dad=portal&amp;_schema=PORTAL&amp;idAsignatura=71013124" target="_blank">Seguridad</a><br></a>- <a href="http://portal.uned.es/portal/page?_pageid=93,22985816&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Teoría de la Información y Criptografía Básica</a><br>- <a href="http://portal.uned.es/portal/page?_pageid=93,27302119&amp;_dad=portal&amp;_schema=PORTAL&amp;idAsignatura=71904018" target="_blank">Ética y Legislación</a><br><br></font></font></font></font><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2011/10/17/pdfs/BOE-A-2011-16342.pdf" target="_blank">BOE</a></font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-madrid/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+madrid&amp;hl=es&amp;ll=40.45374,-3.67424&amp;spn=0.208996,0.441513&amp;sll=43.103991,-2.414246&amp;sspn=0.401064,0.883026&amp;hq=residencias+de+estudiantes&amp;hnear=Madrid,+Comunidad+de+Madrid&amp;t=m&amp;z=11" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://portal.uned.es/portal/page?_pageid=93,1&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Link </a>de la universidad</font></li></ul>]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>-3.736274,40.452305,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Politécnica de Madrid (EUI)</name>
+    <description><![CDATA[<div dir="ltr" align="left"><font face="times new roman,serif"><u><a href="http://www.eui.upm.es/" target="_blank"><b>Escuela Universitaria de Informática</b><br></a><br>Titulación:</u><br><a href="http://www.eui.upm.es/sites/default/files/GUIA%20DEL%20CURSO%201213%20GRADOS%20cuadernillo_2.pdf" target="_blank">Grado en Ingeniería de Computadores</a><br><u>Asignaturas</u><br>- <a href="http://www.eui.upm.es/node/786" target="_blank">Seguridad en Redes</a><br>- <a href="http://www.eui.upm.es/node/746" target="_blank">Fundamentos de Seguridad de la Información</a><br>- <a href="http://www.dma.eui.upm.es/curso1112-1/icomputadores/ci/" target="_blank">Codificación de la Información</a><br></font><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2010/05/29/pdfs/BOE-A-2010-8607.pdf" target="_blank">BOE</a><br><br></font></font><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.eui.upm.es/sites/default/files/GUIA%20DEL%20CURSO%201213%20GRADOS%20cuadernillo_2.pdf" target="_blank">Grado en Ingeniería de Software</a><br><u>Asignaturas</u><br>- <a href="http://www.eui.upm.es/node/789" target="_blank">Implantación y Gestión de la Seguridad de la Información</a><br>- <a href="http://www.dma.eui.upm.es/curso0910/isoftware/ci/index.html" target="_blank">Codificación de la Información</a><br>- <a href="https://www.eui.upm.es/temas_avanzados_en_seguridad" target="_blank">Temas Avanzados de Seguridad y Sociedad de la Información (TASSI)</a><br>- <a href="http://www.eui.upm.es/node/746" target="_blank">Fundamentos de Seguridad de la Información<br></a></font><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2010/05/29/pdfs/BOE-A-2010-8612.pdf" target="_blank">BOE</a><br><br></font></font><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-madrid/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+madrid&amp;hl=es&amp;ll=40.45374,-3.67424&amp;spn=0.208996,0.441513&amp;sll=43.103991,-2.414246&amp;sspn=0.401064,0.883026&amp;hq=residencias+de+estudiantes&amp;hnear=Madrid,+Comunidad+de+Madrid&amp;t=m&amp;z=11" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.upm.es/institucional" target="_blank">Link </a>de la universidad</font></li></ul></div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-3.627419,40.388676,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Politécnica de Madrid (FI)</name>
+    <description><![CDATA[<font face="times new roman,serif"><u><a href="http://www.fi.upm.es/" target="_blank"><b>Facultad de Informática</b></a><br><br>Titulación:</u><br><a href="http://www.fi.upm.es/?id=gradoingenieriainformatica/asignaturas" target="_blank">Grado en Ingeniería Informática</a><br><u>Asignatura</u><br>- <a href="http://porsche.ls.fi.upm.es/doku.php?id=segti:inicio" target="_blank">Seguridad de las Tecnologías de la Información</a><br></font><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2010/05/29/pdfs/BOE-A-2010-8614.pdf" target="_blank">BOE</a><br><br></font></font><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.fi.upm.es/?pagina=1707" target="_blank">Grado en Matemáticas e Informática</a><br><u>Asignatura</u><br>- <a href="http://www.fi.upm.es/docs/estudios/gradomatematicas/1707_S8_Teoria%20de%20Codigos%20y%20Criptografia_13-14.pdf" target="_blank">Teoría de Códigos y Criptografía</a></font><br><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2011/03/21/pdfs/BOE-A-2011-5173.pdf" target="_blank">BOE</a><br><br></font></font><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-madrid/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+madrid&amp;hl=es&amp;ll=40.45374,-3.67424&amp;spn=0.208996,0.441513&amp;sll=43.103991,-2.414246&amp;sspn=0.401064,0.883026&amp;hq=residencias+de+estudiantes&amp;hnear=Madrid,+Comunidad+de+Madrid&amp;t=m&amp;z=11" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.upm.es/institucional" target="_blank">Link </a>de la universidad</font></li></ul>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>-3.719301,40.448776,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Politécnica de Madrid (ETSIT)</name>
+    <description><![CDATA[<font face="times new roman,serif"><u><span style="text-decoration:underline"><span style="text-decoration:underline"><span style="font-weight:bold"><a href="http://www.etsit.upm.es/" target="_blank">Escuela Técnica Superior de Ingenieros de Telecomunicación</a><br><br></span></span></span>Titulación:</u><br><a href="http://www.etsit.upm.es/estudios/graduado-en-ingenieria-de-tecnologias-y-servicios-de-telecomunicacion/plan-de-estudios.html?L=oextxtargwdg" target="_blank">Grado en Ingeniería de Tecnologías y Servicios de Telecomunicación</a><a target="_blank"><br></a><br><u>Asignatura</u><br>- <a href="http://www.etsit.upm.es/index.php?eID=tx_nawsecuredl&amp;u=0&amp;file=fileadmin/documentos/estudios/planes_de_estudio/Plan_2010/Guias/2013_14/95000051_2013_14_SEGU.pdf&amp;t=1372675557&amp;hash=eaf77d6f427262311229ee4f6280f437" target="_blank">Seguridad en Sistemas y Redes de Telecomunicación</a><br></font><font face="times new roman,serif"><u></u></font><font face="times new roman,serif"></font><br><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2010/12/27/pdfs/BOE-A-2010-19945.pdf" target="_blank">BOE</a></font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-madrid/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+madrid&amp;hl=es&amp;ll=40.45374,-3.67424&amp;spn=0.208996,0.441513&amp;sll=43.103991,-2.414246&amp;sspn=0.401064,0.883026&amp;hq=residencias+de+estudiantes&amp;hnear=Madrid,+Comunidad+de+Madrid&amp;t=m&amp;z=11" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.upm.es/institucional" target="_blank">Link </a>de la universidad</font></li></ul>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>-3.727208,40.452309,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Politécnica de Madrid(EUITT)</name>
+    <description><![CDATA[<font face="times new roman,serif"><u><span style="text-decoration:underline"><span style="text-decoration:underline"><a href="http://www.euitt.upm.es/" target="_blank"><span style="font-weight:bold">Escuela Universitaria de Ingeniería Técnica de Telecomunicación</span></a><br style="font-weight:bold"><br></span></span>Titulación:</u><br><a href="http://www.euitt.upm.es/estudios/grado/teleco" target="_blank">Grado en Ingeniería de Sistemas de Telecomunicación</a><br><u>Asignatura</u><br>- <a href="http://www.euitt.upm.es/estudios/grado/teleco/fichas-de-asignaturas?codasig=53&amp;curso_academico=2012&amp;semestre=6&amp;titulacion=59SC" target="_blank">Seguridad en Redes y Servicios</a><br></font><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2010/05/29/pdfs/BOE-A-2010-8610.pdf" target="_blank">BOE</a><br><br></font></font><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.euitt.upm.es/estudios/grado/telematica" target="_blank">Grado en Ingeniería Telemática</a><br><u>Asignatura</u><br>- <a href="http://www.euitt.upm.es/estudios/grado/telematica/fichas-de-asignaturas?codasig=53&amp;curso_academico=2012&amp;semestre=6&amp;titulacion=59TL" target="_blank">Seguridad en Redes y Servicios</a></font><font face="times new roman,serif"><br></font><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2010/05/29/pdfs/BOE-A-2010-8615.pdf" target="_blank">BOE</a><br><br></font></font>Más información:<br></font><ul><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-madrid/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+madrid&amp;hl=es&amp;ll=40.45374,-3.67424&amp;spn=0.208996,0.441513&amp;sll=43.103991,-2.414246&amp;sspn=0.401064,0.883026&amp;hq=residencias+de+estudiantes&amp;hnear=Madrid,+Comunidad+de+Madrid&amp;t=m&amp;z=11" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.upm.es/institucional" target="_blank">Link </a>de la universidad</font></li></ul>]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>-3.628664,40.388954,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Pontificia de Comillas</name>
+    <description><![CDATA[<font face="times new roman,serif"><a href="http://www.icai.upcomillas.es/" target="_blank"><span style="font-weight:bold;text-decoration:underline">Escuela Técnica Superior en Ingeniería (ICAI)</span></a><u><span style="text-decoration:underline"><span style="text-decoration:underline;font-weight:bold"><br><br></span></span>Titulación:</u><br><a href="https://www.upcomillas.es/estudios/estudiar_ITL.aspx" target="_blank">Grado en Ingeniería Telemática</a><br><br><u>Asignatura</u><br>- <a href="http://intranet.upcomillas.es/descargadocumentos/asignaturas/guiadocente.aspx?cursoacademico=2013&amp;asectsid=E000003191" target="_blank">Seguridad en Redes y Servicios</a><br></font><br><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2010/08/03/pdfs/BOE-A-2010-12483.pdf" target="_blank">BOE</a></font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-madrid/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+alcala+de+henares&amp;hl=es&amp;ie=UTF8&amp;sll=40.550592,-4.011726&amp;sspn=0.052174,0.110378&amp;hq=residencias+de+estudiantes&amp;hnear=Alcal%C3%A1+de+Henares,+Madrid,+Comunidad+de+Madrid&amp;t=m&amp;z=13" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.upcomillas.es/" target="_blank">Link </a>de la universidad</font></li></ul>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-3.711410,40.429993,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Pontificia de Salamanca</name>
+    <description><![CDATA[<font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.upsa.es/estudios/grados/informatica/ficha.php" target="_blank">Grado en Ingeniería Informática</a><br><br><u>Asignatura</u><br>- <a href="http://www.upsa.es/estudios/materias/detalle/detallemateria.php?codasig=100530010" target="_blank">Seguridad y Protección de la Información</a><br><br></font><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2010/03/11/pdfs/BOE-A-2010-4124.pdf" target="_blank">BOE</a></font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-madrid/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+madrid&amp;hl=es&amp;ll=40.45374,-3.67424&amp;spn=0.208996,0.441513&amp;sll=43.103991,-2.414246&amp;sspn=0.401064,0.883026&amp;hq=residencias+de+estudiantes&amp;hnear=Madrid,+Comunidad+de+Madrid&amp;t=m&amp;z=11" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.upsa.es/" target="_blank">Link </a>de la universidad</font></li></ul>]]></description>
+    <styleUrl>#style29</styleUrl>
+    <Point>
+      <coordinates>-3.720374,40.444988,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Rey Juan Carlos</name>
+    <description><![CDATA[<div dir="ltr" align="left"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.urjc.es/estudios/grado/ingenieria_informatica_on_line/ingenieria_informatica_on_line.html" target="_blank">Grado en Ingeniería Informática on-line</a><br><u>Asignatura</u><br>- Seguridad Informática<br></font><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en BOE: No aparece a 09/2013<br><br></font></font><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.urjc.es/estudios/grado/ingenieria_informatica/ingenieria_informatica.html" target="_blank">Grado en Ingeniería Informática</a><br><u>Asignatura</u><br>- Seguridad Informática<br></font><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2009/12/01/pdfs/BOE-A-2009-19256.pdf" target="_blank">BOE</a><br><br></font></font><font face="times new roman,serif"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.urjc.es/estudios/grado/ingenieria_computadores/ingenieria_computadores.html" target="_blank">Grado en Ingeniería de Computadores</a><br><u>Asignatura</u><br>- Seguridad Informática<br></font></font><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2009/12/01/pdfs/BOE-A-2009-19248.pdf" target="_blank">BOE</a><br><br></font></font><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.urjc.es/estudios/grado/ingenieria_software/ingenieria_software.html" target="_blank">Grado en Ingeniería del Software</a><br><u>Asignatura</u><br>- Seguridad Informática<br></font><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2009/12/01/pdfs/BOE-A-2009-19251.pdf" target="_blank">BOE</a><br><br></font></font><font face="times new roman,serif"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.urjc.es/estudios/doble_grado/informatica_matematicas/informatica_matematicas.html" target="_blank">Doble Grado en Ingeniería Informática - Matemáticas</a><br><u>Asignatura</u><br>- Seguridad Informática<br></font></font><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en BOE: No aparece a 09/2013<br><br></font></font></font></font><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-madrid/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+madrid&amp;hl=es&amp;ll=40.45374,-3.67424&amp;spn=0.208996,0.441513&amp;sll=43.103991,-2.414246&amp;sspn=0.401064,0.883026&amp;hq=residencias+de+estudiantes&amp;hnear=Madrid,+Comunidad+de+Madrid&amp;t=m&amp;z=11" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.urjc.es/" target="_blank">Link </a>de la universidad</font></li></ul></div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-3.876028,40.335815,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Rey Juan Carlos</name>
+    <description><![CDATA[<font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.urjc.es/estudios/grado/telematica/telematica.html" target="_blank">Grado en Ingeniería Telemática</a><br><br><u>Asignatura</u><br>- Seguridad en Redes<br></font><font face="times new roman,serif"><font face="times new roman,serif"><br></font></font><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2009/12/01/pdfs/BOE-A-2009-19255.pdf" target="_blank">BOE</a></font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-madrid/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+legan%C3%A9s&amp;hl=es&amp;ie=UTF8&amp;ll=40.332544,-3.747196&amp;spn=0.052343,0.110378&amp;sll=40.330057,-3.760757&amp;sspn=0.052345,0.110378&amp;hq=residencias+de+estudiantes&amp;hnear=Legan%C3%A9s,+Madrid,+Comunidad+de+Madrid&amp;t=m&amp;z=13" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.urjc.es/" target="_blank">Link </a>de la universidad</font></li></ul>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-3.820667,40.282864,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad San Pablo-CEU</name>
+    <description><![CDATA[<font face="times new roman,serif"><u><b><a href="http://www.eps.uspceu.es/" target="_blank">Escuela Politécnica Superior</a></b><br><br>Titulación:<br></u><a href="http://ww2.uspceu.es/doc/pages/eps/PlanEstudios.aspx?tit=GSI" target="_blank">Grado en Ingeniería de Sistemas de Información</a><br><br><u>Asignatura</u><br>- Seguridad Informática y Protección de Datos<br><br></font><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2012/08/13/pdfs/BOE-A-2012-10812.pdf" target="_blank">BOE</a></font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-madrid/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+madrid&amp;hl=es&amp;ll=40.45374,-3.67424&amp;spn=0.208996,0.441513&amp;sll=43.103991,-2.414246&amp;sspn=0.401064,0.883026&amp;hq=residencias+de+estudiantes&amp;hnear=Madrid,+Comunidad+de+Madrid&amp;t=m&amp;z=11" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.uspceu.es/usp-home.html" target="_blank">Link </a>de la universidad</font></li></ul>]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>-3.835666,40.399216,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Andalucía</name>
+  <description><![CDATA[Proyecto MESI: Mapa de Enseñanza de la Seguridad de la Información (España)
+
+Enseñanzas de Grado.
+- Marcador color rojo: Grados de Informática
+- Marcador color azul: Grados de Telecomunicaciones
+- Marcador color verde: Otros Grados]]></description>
+  <Style id="style3">
+    <LineStyle>
+      <color>B36666FF</color>
+      <width>6</width>
+    </LineStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Andalucía</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style3</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -7.384640,37.169071,0.000000
+        -7.397910,37.175629,0.000000
+        -7.410270,37.190948,0.000000
+        -7.421260,37.235790,0.000000
+        -7.432250,37.251099,0.000000
+        -7.419890,37.270771,0.000000
+        -7.444610,37.313381,0.000000
+        -7.440490,37.359241,0.000000
+        -7.437740,37.387611,0.000000
+        -7.456970,37.407249,0.000000
+        -7.450100,37.419250,0.000000
+        -7.465210,37.466129,0.000000
+        -7.467950,37.489021,0.000000
+        -7.484430,37.502102,0.000000
+        -7.492670,37.518440,0.000000
+        -7.509150,37.526058,0.000000
+        -7.528380,37.551109,0.000000
+        -7.509150,37.558731,0.000000
+        -7.510520,37.572880,0.000000
+        -7.494040,37.602261,0.000000
+        -7.459710,37.649029,0.000000
+        -7.444610,37.667511,0.000000
+        -7.445980,37.697941,0.000000
+        -7.419890,37.756599,0.000000
+        -7.391050,37.767448,0.000000
+        -7.371820,37.786991,0.000000
+        -7.353970,37.795670,0.000000
+        -7.319640,37.821709,0.000000
+        -7.261963,37.874851,0.000000
+        -7.288050,37.861839,0.000000
+        -7.277060,37.896530,0.000000
+        -7.261960,37.923611,0.000000
+        -7.246850,37.955021,0.000000
+        -7.257840,37.977760,0.000000
+        -7.235870,37.995079,0.000000
+        -7.216640,37.990749,0.000000
+        -7.191920,38.001572,0.000000
+        -7.167200,37.993992,0.000000
+        -7.123260,38.002651,0.000000
+        -7.123260,38.030781,0.000000
+        -7.093040,38.039429,0.000000
+        -7.060080,38.021049,0.000000
+        -7.038110,38.015640,0.000000
+        -7.028500,38.021049,0.000000
+        -7.009270,38.023209,0.000000
+        -6.991420,38.057819,0.000000
+        -6.987300,38.096741,0.000000
+        -6.969450,38.114029,0.000000
+        -6.955710,38.138870,0.000000
+        -6.963950,38.163712,0.000000
+        -6.954340,38.186378,0.000000
+        -6.931000,38.206890,0.000000
+        -6.834860,38.175591,0.000000
+        -6.789550,38.173431,0.000000
+        -6.804650,38.136711,0.000000
+        -6.812890,38.118351,0.000000
+        -6.760710,38.099979,0.000000
+        -6.674190,38.095661,0.000000
+        -6.619260,38.091331,0.000000
+        -6.584930,38.062141,0.000000
+        -6.579430,38.022129,0.000000
+        -6.535490,38.024288,0.000000
+        -6.469570,38.011311,0.000000
+        -6.465450,38.028622,0.000000
+        -6.440730,38.057819,0.000000
+        -6.362450,38.044842,0.000000
+        -6.359710,38.012390,0.000000
+        -6.310270,37.981010,0.000000
+        -6.201780,37.959351,0.000000
+        -6.177060,37.945278,0.000000
+        -6.138610,37.971260,0.000000
+        -6.111140,37.977760,0.000000
+        -6.079550,37.984249,0.000000
+        -6.046600,37.992908,0.000000
+        -6.010890,37.993992,0.000000
+        -5.967400,38.004822,0.000000
+        -5.936730,38.013470,0.000000
+        -5.935360,38.037270,0.000000
+        -5.913390,38.057819,0.000000
+        -5.913390,38.074039,0.000000
+        -5.928490,38.089169,0.000000
+        -5.910640,38.123749,0.000000
+        -5.874930,38.135632,0.000000
+        -5.870810,38.157230,0.000000
+        -5.844720,38.169109,0.000000
+        -5.818630,38.175591,0.000000
+        -5.782920,38.182060,0.000000
+        -5.758200,38.184219,0.000000
+        -5.730740,38.192860,0.000000
+        -5.693660,38.177750,0.000000
+        -5.685420,38.162628,0.000000
+        -5.704650,38.164791,0.000000
+        -5.700530,38.148590,0.000000
+        -5.734860,38.133469,0.000000
+        -5.725700,38.108620,0.000000
+        -5.712890,38.082691,0.000000
+        -5.627740,38.130230,0.000000
+        -5.537100,38.190701,0.000000
+        -5.528870,38.253281,0.000000
+        -5.559080,38.315800,0.000000
+        -5.572810,38.365341,0.000000
+        -5.586540,38.393330,0.000000
+        -5.571900,38.444981,0.000000
+        -5.451960,38.485840,0.000000
+        -5.355830,38.582520,0.000000
+        -5.022580,38.736938,0.000000
+        -4.987790,38.691940,0.000000
+        -4.877930,38.676929,0.000000
+        -4.855950,38.625450,0.000000
+        -4.702140,38.563202,0.000000
+        -4.578550,38.487991,0.000000
+        -4.438470,38.404099,0.000000
+        -4.270930,38.343811,0.000000
+        -4.268180,38.389030,0.000000
+        -3.979790,38.365341,0.000000
+        -3.856200,38.382568,0.000000
+        -3.804010,38.417011,0.000000
+        -3.658440,38.406250,0.000000
+        -3.587030,38.406250,0.000000
+        -3.570550,38.451431,0.000000
+        -3.517450,38.419159,0.000000
+        -3.452450,38.395489,0.000000
+        -3.381040,38.436378,0.000000
+        -3.370050,38.481541,0.000000
+        -3.323360,38.483688,0.000000
+        -3.282160,38.462189,0.000000
+        -3.136590,38.432072,0.000000
+        -3.073420,38.477242,0.000000
+        -2.999260,38.408401,0.000000
+        -2.974540,38.464340,0.000000
+        -2.913200,38.462189,0.000000
+        -2.834470,38.475090,0.000000
+        -2.757560,38.533119,0.000000
+        -2.688900,38.496590,0.000000
+        -2.594600,38.522381,0.000000
+        -2.573540,38.487991,0.000000
+        -2.568050,38.432072,0.000000
+        -2.493890,38.391178,0.000000
+        -2.474670,38.305019,0.000000
+        -2.449950,38.281311,0.000000
+        -2.429810,38.212280,0.000000
+        -2.548820,38.089169,0.000000
+        -2.436210,38.039429,0.000000
+        -2.326350,38.015640,0.000000
+        -2.257690,37.950691,0.000000
+        -2.221980,37.916031,0.000000
+        -2.169800,37.892189,0.000000
+        -2.125850,37.890018,0.000000
+        -2.073660,37.874851,0.000000
+        -1.988520,37.872681,0.000000
+        -2.001340,37.814121,0.000000
+        -1.999510,37.642509,0.000000
+        -1.915740,37.540218,0.000000
+        -1.816860,37.436699,0.000000
+        -1.808620,37.453049,0.000000
+        -1.738580,37.439968,0.000000
+        -1.691890,37.414890,0.000000
+        -1.632840,37.374519,0.000000
+        -1.797630,37.230320,0.000000
+        -1.842950,37.107761,0.000000
+        -1.866300,37.038731,0.000000
+        -1.895140,36.987190,0.000000
+        -1.910240,36.936722,0.000000
+        -1.969290,36.900478,0.000000
+        -1.983710,36.898289,0.000000
+        -1.998820,36.884010,0.000000
+        -2.005000,36.859291,0.000000
+        -1.996070,36.852150,0.000000
+        -2.004310,36.834019,0.000000
+        -2.024230,36.833469,0.000000
+        -2.056500,36.806530,0.000000
+        -2.063370,36.778488,0.000000
+        -2.101130,36.758141,0.000000
+        -2.125160,36.729519,0.000000
+        -2.193140,36.720718,0.000000
+        -2.252880,36.785091,0.000000
+        -2.308500,36.827419,0.000000
+        -2.362740,36.839512,0.000000
+        -2.427970,36.810379,0.000000
+        -2.480850,36.828522,0.000000
+        -2.538520,36.818081,0.000000
+        -2.564620,36.809830,0.000000
+        -2.589340,36.786739,0.000000
+        -2.601700,36.766941,0.000000
+        -2.614050,36.728970,0.000000
+        -2.653190,36.694851,0.000000
+        -2.697140,36.682732,0.000000
+        -2.771300,36.682178,0.000000
+        -2.809750,36.704208,0.000000
+        -2.831030,36.703098,0.000000
+        -2.852320,36.695950,0.000000
+        -2.890090,36.731178,0.000000
+        -2.920990,36.749882,0.000000
+        -2.947080,36.747681,0.000000
+        -2.975230,36.737228,0.000000
+        -2.991710,36.742729,0.000000
+        -3.022610,36.745480,0.000000
+        -3.118050,36.748779,0.000000
+        -3.132470,36.750431,0.000000
+        -3.147580,36.744381,0.000000
+        -3.183970,36.748230,0.000000
+        -3.211440,36.743832,0.000000
+        -3.251950,36.752628,0.000000
+        -3.291090,36.739979,0.000000
+        -3.319930,36.738880,0.000000
+        -3.343270,36.733929,0.000000
+        -3.365250,36.713009,0.000000
+        -3.401640,36.705860,0.000000
+        -3.422920,36.694851,0.000000
+        -3.468930,36.694302,0.000000
+        -3.488840,36.699799,0.000000
+        -3.503260,36.714111,0.000000
+        -3.528670,36.721821,0.000000
+        -3.547210,36.715771,0.000000
+        -3.559570,36.715771,0.000000
+        -3.580170,36.725670,0.000000
+        -3.602140,36.743832,0.000000
+        -3.630290,36.741081,0.000000
+        -3.653640,36.744381,0.000000
+        -3.668060,36.738880,0.000000
+        -3.664620,36.730629,0.000000
+        -3.692780,36.728970,0.000000
+        -3.708570,36.730629,0.000000
+        -3.719550,36.729519,0.000000
+        -3.733970,36.719070,0.000000
+        -3.740150,36.730629,0.000000
+        -3.753890,36.735580,0.000000
+        -3.768990,36.731731,0.000000
+        -3.798520,36.744381,0.000000
+        -3.821180,36.749882,0.000000
+        -3.841090,36.751530,0.000000
+        -3.863060,36.750431,0.000000
+        -3.881600,36.741631,0.000000
+        -3.913870,36.741081,0.000000
+        -3.953700,36.727322,0.000000
+        -4.016870,36.741631,0.000000
+        -4.069060,36.746029,0.000000
+        -4.086220,36.740528,0.000000
+        -4.095150,36.730080,0.000000
+        -4.130170,36.721272,0.000000
+        -4.224240,36.711910,0.000000
+        -4.319000,36.710258,0.000000
+        -4.368430,36.715771,0.000000
+        -4.393840,36.720718,0.000000
+        -4.417870,36.712460,0.000000
+        -4.446710,36.670620,0.000000
+        -4.538720,36.578041,0.000000
+        -4.595030,36.568111,0.000000
+        -4.610130,36.541641,0.000000
+        -4.638970,36.505219,0.000000
+        -4.676050,36.499699,0.000000
+        -4.706260,36.485340,0.000000
+        -4.776300,36.488659,0.000000
+        -4.843590,36.499699,0.000000
+        -4.904020,36.499699,0.000000
+        -4.942470,36.494179,0.000000
+        -4.982300,36.467682,0.000000
+        -5.046840,36.450001,0.000000
+        -5.081170,36.442268,0.000000
+        -5.178680,36.409119,0.000000
+        -5.219870,36.368221,0.000000
+        -5.263820,36.298519,0.000000
+        -5.291290,36.247589,0.000000
+        -5.310510,36.229870,0.000000
+        -5.328360,36.196629,0.000000
+        -5.335920,36.153400,0.000000
+        -5.352400,36.157280,0.000000
+        -5.368190,36.162270,0.000000
+        -5.385360,36.178902,0.000000
+        -5.410760,36.182220,0.000000
+        -5.442350,36.154499,0.000000
+        -5.421750,36.125671,0.000000
+        -5.438230,36.092388,0.000000
+        -5.424500,36.077961,0.000000
+        -5.458830,36.054649,0.000000
+        -5.517880,36.035770,0.000000
+        -5.570060,36.011330,0.000000
+        -5.609890,36.002449,0.000000
+        -5.642850,36.042431,0.000000
+        -5.688170,36.063530,0.000000
+        -5.722500,36.057980,0.000000
+        -5.776060,36.082401,0.000000
+        -5.802150,36.083511,0.000000
+        -5.835570,36.120121,0.000000
+        -5.872190,36.153400,0.000000
+        -5.925750,36.182220,0.000000
+        -5.983420,36.171139,0.000000
+        -6.035610,36.177792,0.000000
+        -6.078180,36.234299,0.000000
+        -6.091910,36.259769,0.000000
+        -6.113890,36.288559,0.000000
+        -6.142730,36.297409,0.000000
+        -6.177060,36.354950,0.000000
+        -6.215510,36.383701,0.000000
+        -6.314390,36.539429,0.000000
+        -6.237480,36.533360,0.000000
+        -6.223750,36.563702,0.000000
+        -6.234050,36.577492,0.000000
+        -6.261520,36.576931,0.000000
+        -6.282120,36.606152,0.000000
+        -6.332930,36.615520,0.000000
+        -6.354210,36.613319,0.000000
+        -6.394040,36.634258,0.000000
+        -6.394730,36.651340,0.000000
+        -6.408460,36.664558,0.000000
+        -6.437980,36.716320,0.000000
+        -6.440730,36.739979,0.000000
+        -6.423560,36.743832,0.000000
+        -6.409830,36.758690,0.000000
+        -6.380310,36.771889,0.000000
+        -6.341850,36.798828,0.000000
+        -6.374130,36.793339,0.000000
+        -6.393350,36.801579,0.000000
+        -6.427680,36.863689,0.000000
+        -6.439360,36.892799,0.000000
+        -6.483300,36.944950,0.000000
+        -6.530680,36.981159,0.000000
+        -6.584930,37.016258,0.000000
+        -6.805340,37.123638,0.000000
+        -6.856840,37.131302,0.000000
+        -6.915890,37.157028,0.000000
+        -6.951590,37.165779,0.000000
+        -6.984550,37.184391,0.000000
+        -7.047720,37.199699,0.000000
+        -7.130120,37.206261,0.000000
+        -7.283930,37.195332,0.000000
+        -7.384640,37.169071,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Universidad De Almería</name>
+    <description><![CDATA[<div dir="ltr" align="left"><font face="times new roman,serif"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://cms.ual.es/UAL/estudios/grados/plandeestudios/asignaturas/GRADO4010?organizacion=temporal" target="_blank">Grado en Ingeniería Informática</a><br><br><u>Asignaturas</u><br></font></font><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif">- <a href="http://cms.ual.es/UAL/estudios/grados/plandeestudios/asignaturas/asignatura/GRADO4010?idAss=40103225&amp;idTit=4010&amp;anyo_actual=2013-14" target="_blank">Seguridad y Cumplimiento Normativo</a><br>- <a href="http://cms.ual.es/UAL/estudios/grados/plandeestudios/asignaturas/asignatura/GRADO4010?idAss=40103239&amp;idTit=4010&amp;anyo_actual=2013-14" target="_blank">Teoría de Códigos y Criptografía</a><br></font>- <a href="http://cms.ual.es/UAL/estudios/grados/plandeestudios/asignaturas/asignatura/GRADO4010?idAss=40104228&amp;idTit=4010&amp;anyo_actual=2013-14" target="_blank">Seguridad Informática</a><br><br></font></font><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2011/11/01/pdfs/BOE-A-2011-17252.pdf" target="_blank">BOE</a></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-almeria/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+almeria&amp;hl=es&amp;ie=UTF8&amp;ll=36.841541,-2.460251&amp;spn=0.018134,0.027595&amp;sll=35.884634,-5.330257&amp;sspn=0.018359,0.027595&amp;hq=residencias+de+estudiantes&amp;hnear=Almer%C3%ADa,+Andaluc%C3%ADa&amp;t=m&amp;z=15" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.ual.es/" target="_blank">Link</a> de la universidad<br></font></li></ul></div>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>-2.404643,36.829563,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad de Cádiz</name>
+    <description><![CDATA[<font face="times new roman,serif"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://asignaturas.uca.es/wuca_fichasig_asignaturas_xtitulacion?titul=21714" target="_blank">Grado en Ingeniería Informática</a><br><br><u>Asignatura</u><br></font></font><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif">- <a href="http://asignaturas.uca.es/wuca_asignaturasttg_asignatura?titul=21714&amp;asign=21714038&amp;dpto=C137" target="_blank">Administración y Seguridad de Redes de Computadores</a><br></font>-<a href="http://asignaturas.uca.es/wuca_asignaturasttg_asignatura?titul=21714&amp;asign=21714059&amp;dpto=C137" target="_blank"> Seguridad en los Sistemas Informáticos</a><br><br></font></font><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif">Plan de Estudios en BOE: No publicado a 10/2013</font><br></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-cadiz/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+cadiz&amp;hl=es&amp;ie=UTF8&amp;ll=36.527364,-6.293535&amp;spn=0.036417,0.055189&amp;oe=utf-8&amp;client=firefox-a&amp;hq=residencias+de+estudiantes&amp;hnear=C%C3%A1diz,+Andaluc%C3%ADa&amp;t=m&amp;z=14" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.uca.es/es/" target="_blank">Link </a>de la universidad</font></li></ul>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-6.303331,36.534542,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad de Cádiz</name>
+    <description><![CDATA[<font face="times new roman,serif"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://asignaturas.uca.es/wuca_fichasig1213_asignaturas_xtitulacion?titul=40209" target="_blank">Grado en Matemáticas</a><br><br><u>Asignatura</u><br></font></font><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif">- <a href="http://asignaturas.uca.es/wuca_asignaturasttg1213_asignatura?titul=40209&amp;asign=40209039&amp;dpto=C101" target="_blank">Códigos y Criptografía</a></font><a href="http://asignaturas.uca.es/wuca_asignaturasttg_asignatura?titul=21714&amp;asign=21714059&amp;dpto=C137" target="_blank"></a><br><br></font></font><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2013/06/24/pdfs/BOE-A-2013-6868.pdf" target="_blank">BOE</a><br></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-cadiz/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+cadiz&amp;hl=es&amp;ie=UTF8&amp;ll=36.527364,-6.293535&amp;spn=0.036417,0.055189&amp;oe=utf-8&amp;client=firefox-a&amp;hq=residencias+de+estudiantes&amp;hnear=C%C3%A1diz,+Andaluc%C3%ADa&amp;t=m&amp;z=14" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.uca.es/es/" target="_blank">Link </a>de la universidad</font></li></ul>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>-6.211041,36.531090,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad de Córdoba</name>
+    <description><![CDATA[<div dir="ltr" align="left"><div dir="ltr" align="left"><font face="times new roman,serif"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.uco.es/eps/node/377" target="_blank">Grado en Ingeniería Informática</a><br><br><u>Asignaturas</u><br></font></font><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif">- <a href="http://www.uco.es/eps/sites/default/files/titulaciones/gradoInformatica/asignaturas/guias_13_14/cuarto/IngSoftware/Seguridad_Informatica.pdf" target="_blank">Seguridad Informática</a><br>- <a href="http://www.uco.es/eps/sites/default/files/titulaciones/gradoInformatica/asignaturas/guias_13_14/cuarto/Optativas/Codigos_y_Criptografia.pdf" target="_blank">Códigos y Criptografía</a><br></font><br></font></font><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2011/06/10/pdfs/BOE-A-2011-10122.pdf" target="_blank">BOE</a></font><br></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-cordoba/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+c%C3%B3rdoba&amp;hl=es&amp;ie=UTF8&amp;ll=37.892873,-4.786949&amp;spn=0.071527,0.110378&amp;sll=36.842606,-2.460251&amp;sspn=0.016005,0.027595&amp;hq=residencias+de+estudiantes&amp;hnear=C%C3%B3rdoba,+Andaluc%C3%ADa&amp;t=m&amp;z=13" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.uco.es/" target="_blank">Link </a>de la universidad<br></font></li></ul></div></div><div dir="ltr"></div>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>-4.719057,37.914459,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad de Granada</name>
+    <description><![CDATA[<font face="times new roman,serif"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://grados.ugr.es/informatica/pages/infoacademica/estructura/generica" target="_blank">Grado en Ingeniería Informática</a><br><u>Asignaturas</u><br></font></font><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif">- <a href="http://grados.ugr.es/informatica/pages/infoacademica/guias_docentes/optespcsi/criptografiaycomputacion" target="_blank">Criptografía y Computación</a><br>- <a href="http://grados.ugr.es/informatica/pages/infoacademica/guias_docentes/espti/seguridadyprotecciondesistemasinformaticos" target="_blank">Seguridad y Protección de Sistemas </a><a href="http://grados.ugr.es/informatica/pages/infoacademica/guias_docentes/espti/seguridadyprotecciondesistemasinformaticos" target="_blank">Informáticos</a><br>- <a href="http://grados.ugr.es/informatica/pages/infoacademica/guias_docentes/201314/cuarto/ingenieriadelsoftware/complementos/seguridadensistemasoperativos" target="_blank">Seguridad en Sistemas Operativos</a><br></font></font></font><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2011/02/19/pdfs/BOE-A-2011-3321.pdf" target="_blank">BOE</a></font><br><font face="times new roman,serif"><u><br>Titulación:<br></u><i>Universidad de Granada en Ceuta</i><u><br></u><a href="http://grados.ugr.es/informatica_ceuta/" target="_blank">Grado en Ingeniería Informática</a><br><u>Asignatura</u></font><font face="times new roman,serif"><br>- <a href="http://grados.ugr.es/informatica_ceuta/pages/infoacademica/guias_docentes/optespsi/seguridad-y-proteccion-de-sistemas-informaticos" target="_blank">Seguridad y Protección de Sistemas Informáticos</a><br></font><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2011/02/19/pdfs/BOE-A-2011-3321.pdf" target="_blank">BOE</a></font></font></font></font><font face="times new roman,serif"><br><br>Más información:</font><br><ul><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-granada/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+granada&amp;hl=es&amp;ie=UTF8&amp;ll=37.185963,-3.60137&amp;spn=0.036104,0.055189&amp;oe=utf-8&amp;client=firefox-a&amp;hq=residencias+de+estudiantes&amp;hnear=Granada,+Andaluc%C3%ADa&amp;t=m&amp;z=14" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.ugr.es/" target="_blank">Link</a> de la universidad</font></li></ul>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>-3.598065,37.193230,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad de Granada</name>
+    <description><![CDATA[<font face="times new roman,serif"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://grados.ugr.es/criminologia/pages/titulacion/estructura" target="_blank">Grado en Criminología</a><br><br><u>Asignaturas</u></font></font><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif"><br>- Seguridad de Redes y Telecomunicaciones<br></font><br></font></font><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2013/06/20/pdfs/BOE-A-2013-6731.pdf" target="_blank">BOE</a></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-granada/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+granada&amp;hl=es&amp;ie=UTF8&amp;ll=37.185963,-3.60137&amp;spn=0.036104,0.055189&amp;oe=utf-8&amp;client=firefox-a&amp;hq=residencias+de+estudiantes&amp;hnear=Granada,+Andaluc%C3%ADa&amp;t=m&amp;z=14" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.ugr.es/" target="_blank">Link</a> de la universidad</font></li></ul>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>-3.602014,37.177998,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad de Huelva</name>
+    <description><![CDATA[<font face="times new roman,serif"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.uhu.es/eps/info_grados/docs/informatica.pdf" target="_blank">Grado en Ingeniería Informática</a><br><br><u>Asignatura</u><br></font></font><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif">- Seguridad de Sistemas Informáticos<br></font><br></font></font><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2011/05/18/pdfs/BOE-A-2011-8673.pdf" target="_blank">BOE</a></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-huelva/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+huelva&amp;hl=es&amp;ie=UTF8&amp;ll=37.254482,-6.952157&amp;spn=0.018036,0.027595&amp;sll=36.527364,-6.293535&amp;sspn=0.036417,0.055189&amp;hq=residencias+de+estudiantes&amp;hnear=Huelva,+Andaluc%C3%ADa&amp;t=m&amp;z=15" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.uhu.es/index.php" target="_blank">Link </a>de la universidad<br></font></li></ul>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-6.943231,37.258957,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad de Jaén</name>
+    <description><![CDATA[<font face="times new roman,serif"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://eps.ujaen.es/detalleTitulacion.php?ct=133A&amp;cadena=giinf" target="_blank">Grado en Ingeniería Informática</a><br><br><u>Asignaturas</u><br></font></font><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif">- <a href="http://eps.ujaen.es/detalleAsignatura.php?ca=13312027&amp;ctit=133A&amp;tex=giinf" target="_blank">Seguridad en Tecnologías de la Información</a><br>- <a href="http://eps.ujaen.es/detalleAsignatura.php?ca=13313015&amp;ctit=133A&amp;tex=giinf" target="_blank">Técnicas Avanzadas de la Seguridad</a><br></font><br></font></font><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2011/02/22/pdfs/BOE-A-2011-3558.pdf" target="_blank">BOE</a></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-jaen/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+jaen&amp;hl=es&amp;ie=UTF8&amp;sll=37.254482,-6.952157&amp;sspn=0.018036,0.027595&amp;hq=residencias+de+estudiantes&amp;hnear=Ja%C3%A9n,+Andaluc%C3%ADa&amp;t=m&amp;z=14" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www10.ujaen.es/" target="_blank">Link </a>de la universidad<br></font></li></ul>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>-3.777795,37.788471,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad de Jaén</name>
+    <description><![CDATA[<font face="times new roman,serif"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://grados.ujaen.es/node/19/presentacion" target="_blank">Grado en Ingeniería Telemática</a><a target="_blank"><br></a><br><u>Asignatura</u></font></font><font face="times new roman,serif"><font face="times new roman,serif"><br>- <a href="https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2013-14/5/145A/14512014/es/2013-14-14512014_es.html" target="_blank">Seguridad en Redes de Telecomunicación</a><br><br></font></font><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2011/02/22/pdfs/BOE-A-2011-3561.pdf" target="_blank">BOE</a></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-jaen/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+jaen&amp;hl=es&amp;ie=UTF8&amp;sll=37.254482,-6.952157&amp;sspn=0.018036,0.027595&amp;hq=residencias+de+estudiantes&amp;hnear=Ja%C3%A9n,+Andaluc%C3%ADa&amp;t=m&amp;z=14" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www10.ujaen.es/" target="_blank">Link </a>de la universidad</font></li></ul>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>-3.628149,38.092384,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad de Málaga</name>
+    <description><![CDATA[<font face="times new roman,serif"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.informatica.uma.es/index.php?option=com_content&amp;task=view&amp;id=326&amp;Itemid=480" target="_blank">Grado en Ingeniería Informática</a><br><u>Asignatura</u></font></font><font face="times new roman,serif"><br>-<a href="http://www.lcc.uma.es/contenidos/informacion_docencia.action?id=1286" target="_blank"> Seguridad de la Información</a></font><br><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2013/02/19/pdfs/BOE-A-2013-1862.pdf" target="_blank">BOE</a><br><br></font><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.informatica.uma.es/index.php?option=com_content&amp;task=view&amp;id=325&amp;Itemid=506" target="_blank">Grado en Ingeniería de Computadores</a><br><u>Asignatura</u></font></font></font></font></font><br><font face="times new roman,serif">- <a href="https://oas.sci.uma.es:8443/pls/apex/f?p=101:3:3204442589674321::NO::P3_ID:89174-5103-411" target="_blank">Teoría de la Información y la Codificación</a></font><br><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2011/10/20/pdfs/BOE-A-2011-16527.pdf" target="_blank">BOE</a><br><br></font><font face="times new roman,serif"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.informatica.uma.es/index.php?option=com_content&amp;task=view&amp;id=321&amp;Itemid=506" target="_blank">Grado en Ingeniería de Software</a><br><u>Asignaturas</u></font></font><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif"><a target="_blank"><br></a>- <a href="https://oas.sci.uma.es:8443/pls/apex/f?p=101:3:3204442589674321::NO::P3_ID:89174-5103-411" target="_blank">Teoría de la Información y la Codificación</a><br>- <a href="http://www.lcc.uma.es/contenidos/informacion_docencia.action?id=1283" target="_blank">Seguridad en Servicios y Aplicaciones</a><br></font></font></font><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2011/10/20/pdfs/BOE-A-2011-16530.pdf" target="_blank">BOE</a><br></font><font face="times new roman,serif"><br>Más información:<br></font><ul><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-malaga/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+malaga&amp;hl=es&amp;ie=UTF8&amp;ll=36.730492,-4.443798&amp;spn=0.072642,0.110378&amp;sll=37.892873,-4.786949&amp;sspn=0.071527,0.110378&amp;hq=residencias+de+estudiantes&amp;hnear=M%C3%A1laga,+Andaluc%C3%ADa&amp;t=m&amp;z=13" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.uma.es/" target="_blank">Link </a>de la universidad<br></font></li></ul>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>-4.476886,36.715477,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad de Málaga</name>
+    <description><![CDATA[<font face="times new roman,serif" style="font-family:times new roman,serif"><u>Titulación:</u><br><a href="http://www.uma.es/grado-en-ingenieria-de-sistemas-de-telecomunicacion/info/8137/plan-de-estudios-sistemas-telecomunicacion/" target="_blank">Grado en Ingeniería de Sistemas de Telecomunicación</a><br><u>Asignaturas</u></font><font face="times new roman,serif" style="font-family:times new roman,serif"><br>- Protección de Infraestructuras de Información<br></font><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2012/07/05/pdfs/BOE-A-2012-9055.pdf" target="_blank">BOE</a><br><br style="font-family:times new roman,serif"></font><font face="times new roman,serif" style="font-family:times new roman,serif"><u>Titulación:</u><br><a href="http://www.uma.es/grado-en-ingenieria-de-tecnologias-de-telecomunicacion/info/8380/plan-de-estudios-tecnologias-telecomunicacion/" target="_blank">Grado en Ingeniería de Tecnología de Telecomunicación</a><br><u>Asignaturas<br></u></font><font face="times new roman,serif" style="font-family:times new roman,serif">-</font><span style="font-family:times new roman,serif"> Administración y Seguridad en Redes</span><br style="font-family:times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2011/10/20/pdfs/BOE-A-2011-16529.pdf" target="_blank">BOE</a><br><br style="font-family:times new roman,serif"></font><font face="times new roman,serif" style="font-family:times new roman,serif"><u>Titulación:</u><br><a href="http://www.uma.es/grado-en-ingenieria-telematica/info/9386/plan-de-estudios/" target="_blank">Grado en Ingeniería Telemática</a><br><u>Asignaturas</u></font><font face="times new roman,serif" style="font-family:times new roman,serif"><br>- Seguridad en Redes<br></font><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2011/10/20/pdfs/BOE-A-2011-16532.pdf" target="_blank">BOE</a><br><br></font><font face="times new roman,serif" style="font-family:times new roman,serif">Más información:<br></font><ul style="font-family:times new roman,serif"><li><a href="http://www.eltiempo.es/en-provincia-malaga/" target="_blank">El Tiempo</a><br></li><li><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+malaga&amp;hl=es&amp;ie=UTF8&amp;ll=36.730492,-4.443798&amp;spn=0.072642,0.110378&amp;sll=37.892873,-4.786949&amp;sspn=0.071527,0.110378&amp;hq=residencias+de+estudiantes&amp;hnear=M%C3%A1laga,+Andaluc%C3%ADa&amp;t=m&amp;z=13" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</li><li><a href="http://www.uma.es/" target="_blank">Link </a>de la universidad</li></ul>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>-4.477766,36.715153,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad de Málaga</name>
+    <description><![CDATA[<font face="times new roman,serif" style="font-family:times new roman,serif"><u>Titulación:</u><br><a href="http://www.uma.es/grado-en-criminologia/info/8725/plan-de-estudios/" target="_blank">Grado en Criminología<a target="_blank"><br></a></a><br><u>Asignaturas</u></font><font face="times new roman,serif" style="font-family:times new roman,serif"><br>- Seguridad Informática e Informática Forense<br><br></font><font face="times new roman,serif" style="font-family:times new roman,serif">Más información:<br></font><ul style="font-family:times new roman,serif"><li><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2011/03/26/pdfs/BOE-A-2011-5517.pdf" target="_blank">BOE</a></font></li><li><a href="http://www.eltiempo.es/en-provincia-malaga/" target="_blank">El Tiempo</a><br></li><li><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+malaga&amp;hl=es&amp;ie=UTF8&amp;ll=36.730492,-4.443798&amp;spn=0.072642,0.110378&amp;sll=37.892873,-4.786949&amp;sspn=0.071527,0.110378&amp;hq=residencias+de+estudiantes&amp;hnear=M%C3%A1laga,+Andaluc%C3%ADa&amp;t=m&amp;z=13" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</li><li><a href="http://www.uma.es/" target="_blank">Link </a>de la universidad</li></ul>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>-4.476800,36.715168,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Pablo de Olavide</name>
+    <description><![CDATA[<div dir="ltr"><font face="times new roman,serif"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.upo.es/eps/portal/ArchAdjuntos/Plan_de_Estudios.pdf" target="_blank">Grado en Ingeniería Informática en Sistemas de Información</a><br><br><u>Asignatura</u><br></font></font><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif">- <a href="http://www.upo.es/dein/contenido?pag=/portal/eps/titulaciones/gifs/asignatura_701027&amp;menuid=30063&amp;vE=" target="_blank">Seguridad</a><br></font><br></font></font><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif">Plan de Estudios en BOE: No publicado a 10/2013<br></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-sevilla/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+sevilla&amp;hl=es&amp;ie=UTF8&amp;sll=37.773429,-3.786592&amp;sspn=0.035822,0.055189&amp;hq=residencias+de+estudiantes&amp;hnear=Sevilla,+Andaluc%C3%ADa&amp;t=m&amp;z=13" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.upo.es/portal/impe/web/portada" target="_blank">Link </a>de la universidad<br></font></li></ul></div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-5.937510,37.354397,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad de Sevilla</name>
+    <description><![CDATA[<div dir="ltr"><font face="times new roman,serif"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.us.es/estudios/grados/plan_206?p=7" target="_blank">Grado en Ingeniería Informática&nbsp; - Tecnologías Informáticas</a><br><u>Asignaturas</u><br></font></font><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif">- <a href="http://www.us.es/estudios/grados/plan_206/asignatura_2060042" target="_blank">Seguridad en Sistemas Informáticos y en Internet</a><br></font></font></font><font face="times new roman,serif">- <a target="_blank">Criptografía</a><br>Plan de Estudios en <a href="http://www.boe.es/boe/dias/2011/10/11/pdfs/BOE-A-2011-16018.pdf" target="_blank">BOE</a><br><br></font><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.us.es/estudios/grados/plan_205?p=7" target="_blank">Grado en Ingeniería Informática&nbsp; - Ingeniería del Software</a><br><u>Asignaturas</u><br></font></font><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif">- <a href="http://www.us.es/estudios/grados/plan_205/asignatura_2050043" target="_blank">Seguridad en Sistemas Informáticos y en Internet<br></a></font></font></font></font></font></font><font face="times new roman,serif">- <a target="_blank">Criptografía</a><br>Plan de Estudios en <a href="http://www.boe.es/boe/dias/2011/10/11/pdfs/BOE-A-2011-16017.pdf" target="_blank">BOE</a><br><br></font><font face="times new roman,serif"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.us.es/estudios/grados/plan_204?p=7" target="_blank">Grado en Ingeniería Informática&nbsp; - Ingeniería de Computadores</a><br><u>Asignaturas</u><br></font></font><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif">- <a href="http://www.us.es/estudios/grados/plan_204/asignatura_2040035" target="_blank">Seguridad en Sistemas Informáticos y en Internet</a><br></font></font></font><font face="times new roman,serif">- <a target="_blank">Criptografía</a><br>Plan de Estudios en <a href="http://www.boe.es/boe/dias/2011/10/11/pdfs/BOE-A-2011-16016.pdf" target="_blank">BOE</a><a target="_blank"><br></a><br></font><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-sevilla/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+sevilla&amp;hl=es&amp;ie=UTF8&amp;sll=37.773429,-3.786592&amp;sspn=0.035822,0.055189&amp;hq=residencias+de+estudiantes&amp;hnear=Sevilla,+Andaluc%C3%ADa&amp;t=m&amp;z=13" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.us.es/" target="_blank">Link </a>de la universidad<br></font></li></ul></div>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-5.987098,37.359993,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad de Sevilla</name>
+    <description><![CDATA[<font face="times new roman,serif" style="font-family:times new roman,serif"><u>Titulación:</u><br><a href="http://www.us.es/estudios/grados/plan_199?p=7" target="_blank">Grado en Ingeniería de Tecnologías de Telecomunicación</a><br><br><u>Asignatura</u><br></font><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif"><span style="font-family:times new roman,serif">- <a href="http://www.us.es/estudios/grados/plan_199/asignatura_1990041" target="_blank">Seguridad</a></span><br style="font-family:times new roman,serif"><span style="font-family:times new roman,serif">- Seguridad en Redes y Servicios Telemáticos</span><span style="font-family:times new roman,serif"></span><br></font></font></font><br><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2011/10/11/pdfs/BOE-A-2011-16011.pdf" target="_blank">BOE</a></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-sevilla/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+sevilla&amp;hl=es&amp;ie=UTF8&amp;sll=37.773429,-3.786592&amp;sspn=0.035822,0.055189&amp;hq=residencias+de+estudiantes&amp;hnear=Sevilla,+Andaluc%C3%ADa&amp;t=m&amp;z=13" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.us.es/" target="_blank">Link </a>de la universidad</font></li></ul>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>-6.006796,37.410118,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad de Sevilla</name>
+    <description><![CDATA[<font face="times new roman,serif" style="font-family:times new roman,serif"><u>Titulación:</u><br><a href="http://www.us.es/estudios/grados/plan_203?p=7" target="_blank">Grado en Ingeniería en Tecnologías Industriales</a><a target="_blank"><br></a><br><u>Asignatura</u></font><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif"><span style="font-family:times new roman,serif"></span><br style="font-family:times new roman,serif"><span style="font-family:times new roman,serif">- Seguridad en Redes y Servicios Telemáticos</span><span style="font-family:times new roman,serif"></span><br></font></font></font><br><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2011/10/11/pdfs/BOE-A-2011-16012.pdf" target="_blank">BOE</a></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-sevilla/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+sevilla&amp;hl=es&amp;ie=UTF8&amp;sll=37.773429,-3.786592&amp;sspn=0.035822,0.055189&amp;hq=residencias+de+estudiantes&amp;hnear=Sevilla,+Andaluc%C3%ADa&amp;t=m&amp;z=13" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.us.es/" target="_blank">Link </a>de la universidad</font></li></ul>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-6.001732,37.411415,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad de Sevilla</name>
+    <description><![CDATA[<font face="times new roman,serif" style="font-family:times new roman,serif"><u>Titulación:</u><br><a href="http://www.us.es/estudios/grados/plan_171" target="_blank">Grado en Matemáticas</a><a target="_blank"><br></a><br><u>Asignatura</u></font><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif"><span style="font-family:times new roman,serif"></span><br style="font-family:times new roman,serif"><span style="font-family:times new roman,serif">- <a href="http://www.us.es/estudios/grados/plan_171/asignatura_1710029" target="_blank">Teoría de Códigos y Criptografía</a></span><span style="font-family:times new roman,serif"></span><br></font></font></font><br><font face="times new roman,serif">Más información:<br></font><ul><li><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2011/01/20/pdfs/BOE-A-2011-1072.pdf" target="_blank">BOE</a></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-sevilla/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+sevilla&amp;hl=es&amp;ie=UTF8&amp;sll=37.773429,-3.786592&amp;sspn=0.035822,0.055189&amp;hq=residencias+de+estudiantes&amp;hnear=Sevilla,+Andaluc%C3%ADa&amp;t=m&amp;z=13" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.us.es/" target="_blank">Link </a>de la universidad</font></li></ul>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>-5.989201,37.363777,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

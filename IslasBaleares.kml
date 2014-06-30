@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Islas Baleares</name>
+  <description><![CDATA[Proyecto MESI: Mapa de Enseñanza de la Seguridad de la Información (España)
+
+Enseñanzas de Grado.
+- Marcador color rojo: Grados de Informática
+- Marcador color azul: Grados de Telecomunicaciones
+- Marcador color verde: Otros Grados]]></description>
+  <Style id="style3">
+    <LineStyle>
+      <color>B36699FF</color>
+      <width>6</width>
+    </LineStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Islas Baleares</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style3</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        0.831298,40.262760,0.000000
+        0.875244,38.186386,0.000000
+        5.050048,38.220921,0.000000
+        5.006103,40.279526,0.000000
+        0.831298,40.262760,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Universidad de les Illes Balears</name>
+    <description><![CDATA[<div dir="ltr"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://estudis.uib.cat/es/grau/informatica/GEIN-P/?languageId=100001" target="_blank">Grado en Ingeniería Informática</a><br><br><u>Asignatura</u><br>- <a href="http://estudis.uib.cat/es/grau/informatica/GEIN-P/21754/index.html" target="_blank">Seguridad en Redes y Sevicios</a><br></font><font face="times new roman,serif"><font face="times new roman,serif">- <a href="http://estudis.uib.cat/es/grau/informatica/GEIN-P/21748/index.html" target="_blank">Seguridad en Sistemas Informáticos</a><br></font><br>Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2011/02/19/pdfs/BOE-A-2011-3337.pdf" target="_blank">BOE</a></font></font></font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/baleares/" target="_blank">El Tiempo</a></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?oe=utf-8&amp;client=firefox-a&amp;ie=UTF-8&amp;q=residencia+para+estudiantes+mallorca&amp;fb=1&amp;gl=es&amp;hq=residencia+para+estudiantes&amp;hnear=0x1297b7e1b1519a39:0x25bdd9f63b9c5d34,Isla+de+Mallorca&amp;ei=nI9NUYicF8-FhQfWwoGIDw&amp;ved=0COsBELYD" target="_blank">Residencias</a></font> de estudiantes</li><li><font face="times new roman,serif"><a href="http://www.uib.es/" target="_blank">Link </a>de la universidad</font></li></ul></div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>2.645130,39.641155,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad de les Illes Balears</name>
+    <description><![CDATA[<div dir="ltr"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://estudis.uib.cat/es/grau/telematica/GTTT-P" target="_blank">Grado en Ingeniería Telemática por la Universidad de las Illes Balears</a><br><br><u>Asignaturas                    </u><br>- <a href="http://estudis.uib.cat/es/grau/telematica/GTTT-P/22370/index.html" target="_blank">Seguridad en Redes Telemáticas</a><br>- <a href="http://estudis.uib.es/es/grau/telematica/GTTT-P/22383/index.html" target="_blank">Técnicas y Aplicaciones de Seguridad en Redes Telemáticas</a><br>- Criptografía: Teoría y Aplicaciones.<br><br>Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2011/02/19/pdfs/BOE-A-2011-3338.pdf" target="_blank">BOE</a></font></font></font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/baleares/" target="_blank">El Tiempo</a></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?oe=utf-8&amp;client=firefox-a&amp;ie=UTF-8&amp;q=residencia+para+estudiantes+mallorca&amp;fb=1&amp;gl=es&amp;hq=residencia+para+estudiantes&amp;hnear=0x1297b7e1b1519a39:0x25bdd9f63b9c5d34,Isla+de+Mallorca&amp;ei=nI9NUYicF8-FhQfWwoGIDw&amp;ved=0COsBELYD" target="_blank">Residencias</a></font> de estudiantes</li><li><font face="times new roman,serif"><a href="http://www.uib.es/" target="_blank">Link </a>de la universidad</font></li></ul></div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>3.017128,39.877823,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

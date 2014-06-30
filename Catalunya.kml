@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Cataluña</name>
+  <description><![CDATA[Proyecto MESI: Mapa de Enseñanza de la Seguridad de la Información (España)
+
+Enseñanzas de Grado.
+- Marcador color rojo: Grados de Informática
+- Marcador color azul: Grados de Telecomunicaciones
+- Marcador color verde: Otros Grados]]></description>
+  <Style id="style9">
+    <LineStyle>
+      <color>B3993399</color>
+      <width>6</width>
+    </LineStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Cataluña</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style9</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        0.668330,42.698582,0.000000
+        0.734250,42.617790,0.000000
+        0.745230,42.569260,0.000000
+        0.723260,42.496399,0.000000
+        0.696259,42.487289,0.000000
+        0.723260,42.415340,0.000000
+        0.736084,42.388981,0.000000
+        0.731964,42.366661,0.000000
+        0.753937,42.346367,0.000000
+        0.745230,42.261040,0.000000
+        0.701290,42.212238,0.000000
+        0.703125,42.163403,0.000000
+        0.694885,42.117580,0.000000
+        0.668330,42.032970,0.000000
+        0.642700,41.999306,0.000000
+        0.613400,41.983990,0.000000
+        0.561676,41.938042,0.000000
+        0.600128,41.920673,0.000000
+        0.587769,41.906364,0.000000
+        0.604248,41.871605,0.000000
+        0.580902,41.860355,0.000000
+        0.557556,41.850128,0.000000
+        0.502625,41.809196,0.000000
+        0.469666,41.775410,0.000000
+        0.436707,41.766190,0.000000
+        0.371700,41.730331,0.000000
+        0.328217,41.674965,0.000000
+        0.351563,41.630840,0.000000
+        0.350189,41.601067,0.000000
+        0.420227,41.596958,0.000000
+        0.448600,41.549702,0.000000
+        0.385895,41.483891,0.000000
+        0.346069,41.480804,0.000000
+        0.352936,41.453018,0.000000
+        0.341949,41.423164,0.000000
+        0.328217,41.396385,0.000000
+        0.366669,41.353104,0.000000
+        0.355682,41.325264,0.000000
+        0.382690,41.286060,0.000000
+        0.349730,41.228241,0.000000
+        0.324097,41.218952,0.000000
+        0.305780,41.170380,0.000000
+        0.208740,41.122814,0.000000
+        0.218353,41.047253,0.000000
+        0.251312,41.031715,0.000000
+        0.274658,41.004776,0.000000
+        0.288391,40.966419,0.000000
+        0.251312,40.897945,0.000000
+        0.261840,40.822121,0.000000
+        0.239860,40.780540,0.000000
+        0.228880,40.713951,0.000000
+        0.245819,40.704586,0.000000
+        0.271912,40.695217,0.000000
+        0.285645,40.684803,0.000000
+        0.283810,40.672298,0.000000
+        0.270538,40.654598,0.000000
+        0.278778,40.625420,0.000000
+        0.338740,40.605610,0.000000
+        0.390015,40.602486,0.000000
+        0.428467,40.576412,0.000000
+        0.443573,40.549286,0.000000
+        0.514984,40.522152,0.000000
+        0.579529,40.598312,0.000000
+        0.659180,40.624374,0.000000
+        0.734250,40.622292,0.000000
+        0.877070,40.680630,0.000000
+        0.874786,40.730610,0.000000
+        0.793762,40.768063,0.000000
+        0.775909,40.787819,0.000000
+        0.704498,40.798218,0.000000
+        0.811150,40.888599,0.000000
+        0.888060,40.971600,0.000000
+        0.933838,40.989227,0.000000
+        0.976410,41.025497,0.000000
+        1.050568,41.059681,0.000000
+        1.127472,41.068996,0.000000
+        1.168671,41.051395,0.000000
+        1.240082,41.103157,0.000000
+        1.303253,41.124886,0.000000
+        1.338500,41.120739,0.000000
+        1.465302,41.154877,0.000000
+        1.543579,41.179688,0.000000
+        1.632843,41.185890,0.000000
+        1.821890,41.228241,0.000000
+        1.929474,41.256130,0.000000
+        1.994019,41.259228,0.000000
+        2.151480,41.302570,0.000000
+        2.206420,41.376801,0.000000
+        2.250360,41.442719,0.000000
+        2.393180,41.500351,0.000000
+        2.524109,41.563061,0.000000
+        2.585907,41.583607,0.000000
+        2.655945,41.607227,0.000000
+        2.777710,41.648281,0.000000
+        2.826233,41.686245,0.000000
+        2.859192,41.694450,0.000000
+        2.885284,41.694450,0.000000
+        2.975460,41.746719,0.000000
+        3.058319,41.782578,0.000000
+        3.089905,41.827618,0.000000
+        3.135223,41.841942,0.000000
+        3.184200,41.869560,0.000000
+        3.217160,41.934971,0.000000
+        3.231354,41.965618,0.000000
+        3.206170,41.992161,0.000000
+        3.203888,42.037052,0.000000
+        3.224487,42.058472,0.000000
+        3.194275,42.098221,0.000000
+        3.131104,42.134895,0.000000
+        3.107300,42.179680,0.000000
+        3.131104,42.229534,0.000000
+        3.162230,42.269169,0.000000
+        3.217160,42.220379,0.000000
+        3.294060,42.252911,0.000000
+        3.317871,42.323017,0.000000
+        3.228140,42.342300,0.000000
+        3.179169,42.357529,0.000000
+        3.165436,42.394051,0.000000
+        3.168182,42.436634,0.000000
+        3.085785,42.425484,0.000000
+        3.036346,42.471085,0.000000
+        2.949829,42.476151,0.000000
+        2.916870,42.463993,0.000000
+        2.832640,42.455879,0.000000
+        2.813873,42.430553,0.000000
+        2.776790,42.423450,0.000000
+        2.700800,42.415340,0.000000
+        2.645870,42.382889,0.000000
+        2.672420,42.350422,0.000000
+        2.656860,42.334179,0.000000
+        2.557980,42.358540,0.000000
+        2.532349,42.338245,0.000000
+        2.492060,42.342300,0.000000
+        2.441711,42.382893,0.000000
+        2.304380,42.423450,0.000000
+        2.252190,42.431561,0.000000
+        2.195430,42.423450,0.000000
+        2.129510,42.415340,0.000000
+        2.087400,42.362598,0.000000
+        1.997680,42.350422,0.000000
+        1.950073,42.415344,0.000000
+        1.934967,42.448795,0.000000
+        1.880035,42.459942,0.000000
+        1.823730,42.481213,0.000000
+        1.724850,42.500450,0.000000
+        1.645200,42.468040,0.000000
+        1.525260,42.439671,0.000000
+        1.437370,42.439671,0.000000
+        1.432343,42.472095,0.000000
+        1.413116,42.491341,0.000000
+        1.459808,42.512604,0.000000
+        1.446075,42.538918,0.000000
+        1.415863,42.536892,0.000000
+        1.439209,42.570274,0.000000
+        1.415400,42.642040,0.000000
+        1.377411,42.688492,0.000000
+        1.348570,42.714729,0.000000
+        1.206660,42.714729,0.000000
+        1.174164,42.713722,0.000000
+        1.129760,42.722801,0.000000
+        1.107780,42.779270,0.000000
+        1.021729,42.778267,0.000000
+        0.965424,42.804470,0.000000
+        0.921020,42.795399,0.000000
+        0.855100,42.827629,0.000000
+        0.767210,42.843750,0.000000
+        0.701290,42.859859,0.000000
+        0.661926,42.837711,0.000000
+        0.650940,42.779274,0.000000
+        0.648193,42.755081,0.000000
+        0.677032,42.726837,0.000000
+        0.668330,42.698582,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Autónoma de Barcelona (EUG)</name>
+    <description><![CDATA[<div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr"><font face="times new roman,serif"><u><a href="http://www.eug.es/" target="_blank"><b>Escuelas Universitarias Gimbernat y Tomàs Cerdà</b></a><br><br>Titulación:</u><br><a href="http://informatica.eug.es/sites/default/files/study/GUIA%20COMPLETA%2012-13%20INF%20I%20SERVEIS_0.pdf" target="_blank">Grado en Ingeniería Informática y Servicios</a><br><br><u>Asignatura</u><br>- Servicios y Seguridad<br><br>Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2013/07/09/pdfs/BOE-A-2013-7520.pdf" target="_blank">BOE</a></font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-barcelona/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+barcelona&amp;hl=es&amp;ie=UTF8&amp;ll=41.381446,2.16362&amp;spn=0.136015,0.220757&amp;sll=41.971233,2.839794&amp;sspn=0.067387,0.110378&amp;hq=residencias+de+estudiantes&amp;hnear=Barcelona,+Catalu%C3%B1a&amp;t=m&amp;fll=41.381446,2.16362&amp;fspn=0.136015,0.220757&amp;z=12" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.uab.es/" target="_blank">Link </a>de la universidad</font></li></ul></div></div></div></div></div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>2.072060,41.490322,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Autónoma de Barcelona</name>
+    <description><![CDATA[<font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.uab.es/servlet/Satellite/estudiar/listado-de-grados/informacion-general/ingenieria-informatica-grado-eees-1216708258897.html?param1=1263367146646&amp;param10=5&amp;param11=10" target="_blank">Grado en Ingeniería Informática</a><br><br><u>Asignaturas:</u><br>- <a href="http://www.uab.es/guiesdocents/2013-14/g102769t2502441a2013-14iCAT.pdf" target="_blank">Información y Seguridad</a><br>- <a href="http://www.uab.es/guiesdocents/2013-14/g102757t2502441a2013-14iCAT.pdf" target="_blank">Garantía de la Información y Seguridad</a><br><br>Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en BOE: No aparece a 10/2013</font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-barcelona/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+barcelona&amp;hl=es&amp;ie=UTF8&amp;ll=41.381446,2.16362&amp;spn=0.136015,0.220757&amp;sll=41.971233,2.839794&amp;sspn=0.067387,0.110378&amp;hq=residencias+de+estudiantes&amp;hnear=Barcelona,+Catalu%C3%B1a&amp;t=m&amp;fll=41.381446,2.16362&amp;fspn=0.136015,0.220757&amp;z=12" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.uab.es/" target="_blank">Link </a>de la universidad</font></li></ul>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>2.112594,41.500191,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad de Girona</name>
+    <description><![CDATA[<div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.udg.edu/estudia/Matricula/Guiadematricula/tabid/13296/idpla/3105G0710/anyacad/2012/language/es-ES/Default.aspx" target="_blank">Grado en Ingeniería Informática</a><br><br><u>Asignatura</u><br>- <a href="http://www.udg.edu/Guiadematricula/Dissenyassignatura/tabid/15700/Default.aspx?curs=2012&amp;codia=3105G07029&amp;codip=" target="_blank">Legislación y ética profesional</a><br><br>Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en BOE: No aparece a 10/2013</font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-girona/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+girona&amp;hl=es&amp;ie=UTF8&amp;ll=41.971233,2.839794&amp;spn=0.067387,0.110378&amp;sll=41.116801,1.252527&amp;sspn=0.034142,0.055189&amp;hq=residencias+de+estudiantes&amp;hnear=Girona,+Catalu%C3%B1a&amp;t=m&amp;z=13" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.udg.edu/" target="_blank">Link </a>de la universidad</font></li></ul></div></div></div></div></div>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>2.829430,41.964214,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad de Lleida</name>
+    <description><![CDATA[<div dir="ltr"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.grauinformatica.udl.cat/cas/" target="_blank">Grado en Ingeniería Informática</a><br><br><u>Asignatura</u><br>- Seguridad de Aplicaciones y Comunicaciones<br><br>Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2013/09/27/pdfs/BOE-A-2013-10070.pdf" target="_blank">BOE</a></font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-lleida/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencia+de+estudiantes+en+lleida&amp;hl=es&amp;ie=UTF8&amp;oe=utf-8&amp;client=firefox-a&amp;hq=residencia+de+estudiantes&amp;hnear=L%C3%A9rida,+Lleida,+Catalu%C3%B1a&amp;t=m&amp;z=15" target="_blank">Residencias </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.udl.es/" target="_blank">Link </a>de la universidad</font></li></ul></div></div></div></div></div></div></div>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>0.619698,41.614834,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Oberta de Catalunya</name>
+    <description><![CDATA[<div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://estudios.uoc.edu/es/grados-2-ciclo/grado-ingenieria-informatica/plan-estudios" target="_blank">Grado en Ingeniería Informática</a><br><u>Asignaturas</u><br>- <a href="http://cv.uoc.edu/tren/trenacc/web/GAT_EXP.PLANDOCENTE?any_academico=20111&amp;cod_asignatura=75.574&amp;idioma=CAS&amp;pagina=PD_PREV_SECRE" target="_blank">Seguridad en redes de computadores</a><br>- <a href="http://cv.uoc.edu/tren/trenacc/web/GAT_EXP.PLANDOCENTE?any_academico=20111&amp;cod_asignatura=75.604&amp;idioma=CAS&amp;pagina=PD_PREV_SECRE" target="_blank">Comercio electrónico</a><br></font><font face="times new roman,serif"><font face="times new roman,serif">- <a href="http://cv.uoc.edu/tren/trenacc/web/GAT_EXP.PLANDOCENTE?any_academico=20131&amp;cod_asignatura=75.601&amp;idioma=CAS&amp;pagina=PD_PREV_SECRE" target="_blank">Criptografía</a><br>Plan de Estudios en <a href="http://www.boe.es/boe/dias/2013/01/29/pdfs/BOE-A-2013-878.pdf" target="_blank">BOE</a><br><br></font></font><font face="times new roman,serif"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://estudios.uoc.edu/es/grados-2-ciclo/multimedia/presentacion" target="_blank">Grado en Multimedia</a><br><u>Asignatura</u><br>-<a href="http://cv.uoc.edu/tren/trenacc/web/GAT_EXP.PLANDOCENTE?any_academico=20121&amp;cod_asignatura=76.537&amp;idioma=CAS&amp;pagina=PD_PREV_PORTAL" target="_blank"> Seguridad y Calidad en Servidores Web</a><br></font></font><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2011/11/02/pdfs/BOE-A-2011-17324.pdf" target="_blank">BOE</a><br><br></font></font></font>Más información:<br></font><ul><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-barcelona/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+barcelona&amp;hl=es&amp;ie=UTF8&amp;ll=41.381446,2.16362&amp;spn=0.136015,0.220757&amp;sll=41.971233,2.839794&amp;sspn=0.067387,0.110378&amp;hq=residencias+de+estudiantes&amp;hnear=Barcelona,+Catalu%C3%B1a&amp;t=m&amp;fll=41.381446,2.16362&amp;fspn=0.136015,0.220757&amp;z=12" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.uoc.edu/portal/ca/index.html" target="_blank">Link </a>de la universidad</font></li></ul></div></div></div></div></div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>2.194734,41.406315,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Oberta de Catalunya</name>
+    <description><![CDATA[<div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://estudios.uoc.edu/es/grados-2-ciclo/tecnologias-telecomunicacion/plan-estudios" target="_blank">Grado en Tecnologías de Telecomunicación</a><br><br><u>Asignatura</u><br>- <a href="http://cv.uoc.edu/tren/trenacc/web/GAT_EXP.PLANDOCENTE?any_academico=20122&amp;cod_asignatura=81.544&amp;idioma=CAS&amp;pagina=PD_PREV_PORTAL" target="_blank">Seguridad en Redes</a><br>- Criptografía<br><br>Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2013/01/29/pdfs/BOE-A-2013-881.pdf" target="_blank">BOE</a></font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-barcelona/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+barcelona&amp;hl=es&amp;ie=UTF8&amp;ll=41.381446,2.16362&amp;spn=0.136015,0.220757&amp;sll=41.971233,2.839794&amp;sspn=0.067387,0.110378&amp;hq=residencias+de+estudiantes&amp;hnear=Barcelona,+Catalu%C3%B1a&amp;t=m&amp;fll=41.381446,2.16362&amp;fspn=0.136015,0.220757&amp;z=12" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.uoc.edu/portal/ca/index.html" target="_blank">Link </a>de la universidad</font></li></ul></div></div></div></div></div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>2.194779,41.406330,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Politécnica de Catalunya (EUPMT)</name>
+    <description><![CDATA[<div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr"><font face="times new roman,serif"><u><b><a href="http://www.eupmt.upc.edu/" target="_blank">Escuela Universitaria Politécnica de Mataró</a></b><br><br>Titulación:</u><br><a href="http://www.upc.edu/grau/fitxa_grau.php?id_estudi=246&amp;lang=es" target="_blank">Grado en Ingeniería Informática</a><br><br><u>Asignatura<br></u>- Administración y Seguridad de Sistemas                                                            <br><br>Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en BOE: No aparece a 10/2013<br></font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-barcelona/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+barcelona&amp;hl=es&amp;ie=UTF8&amp;ll=41.381446,2.16362&amp;spn=0.136015,0.220757&amp;sll=41.971233,2.839794&amp;sspn=0.067387,0.110378&amp;hq=residencias+de+estudiantes&amp;hnear=Barcelona,+Catalu%C3%B1a&amp;t=m&amp;fll=41.381446,2.16362&amp;fspn=0.136015,0.220757&amp;z=12" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.upc.edu/" target="_blank">Link </a>de la universidad</font></li></ul></div></div></div></div></div></div>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>2.434802,41.527534,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Politécnica de Catalunya (EPSEVG)</name>
+    <description><![CDATA[<span><a href="http://www.upc.edu/unitat/fitxa_unitat.php?id_unitat=124&amp;lang=es" target="_blank"><u><font face="times new roman,serif" size="2"><b>Escuela Politécnica Superior de Ingeniería de Vilanova i la Geltrú</b></font></u></a><br></span><br><p><font face="times new roman,serif" size="2"><u>Titulación:</u><br><a href="http://www.upc.edu/grau/fitxa_grau.php?id_estudi=245&amp;lang=es" target="_blank">Grado en Ingeniería Informática</a><br><br><u>Asignatura</u><br>- </font><font face="times new roman,serif" size="2"><a href="http://www.upc.edu/estudispdf/guia_docent.php?codi=340362&amp;lang=esp" target="_blank">Seguridad y Administración de Redes</a></font></p><p><font face="times new roman,serif" size="2"><a href="http://www.upc.edu/estudispdf/guia_docent.php?codi=340362&amp;lang=esp" target="_blank"><br></a></font></p><p><font face="times new roman,serif" size="2"></font><font face="times new roman,serif" size="2">Más información:<br></font></p><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en BOE: No aparece a 10/2013</font></font></li><li><font face="times new roman,serif" size="2"><a href="http://www.eltiempo.es/en-provincia-barcelona/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif" size="2"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+barcelona&amp;hl=es&amp;ie=UTF8&amp;ll=41.38634,2.148857&amp;spn=0.136005,0.220757&amp;sll=40.358694,-3.904288&amp;sspn=0.008633,0.013797&amp;hq=residencias+de+estudiantes&amp;hnear=Barcelona,+Catalu%C3%B1a&amp;t=m&amp;fll=41.38634,2.148857&amp;fspn=0.136005,0.220757&amp;z=12" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif" size="2"><a href="http://www.upc.edu/" target="_blank">Link </a>de la universidad</font></li></ul>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>1.730089,41.220650,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Politécnica de Catalunya (FIB)</name>
+    <description><![CDATA[<div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr"><font face="times new roman,serif"><u><a href="http://www.fib.upc.edu/fib.html" target="_blank"><b>Facultad de informática de Barcelona</b></a><br><br>Titulación:</u><br><a href="http://www.upc.edu/grau/fitxa_grau.php?id_estudi=244&amp;lang=es" target="_blank">Grado en Ingeniería Informática</a><br><br><u>Asignatura</u><br>- <a href="http://www.upc.edu/estudispdf/guia_docent.php?codi=270123&amp;lang=esp" target="_blank">Seguridad Informática</a><br>- Criptografía                                                            <font face="times new roman,serif"><font face="times new roman,serif"><br><br></font></font>Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en BOE: No aparece a 10/2013</font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-barcelona/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+barcelona&amp;hl=es&amp;ie=UTF8&amp;ll=41.38634,2.148857&amp;spn=0.136005,0.220757&amp;sll=40.358694,-3.904288&amp;sspn=0.008633,0.013797&amp;hq=residencias+de+estudiantes&amp;hnear=Barcelona,+Catalu%C3%B1a&amp;t=m&amp;fll=41.38634,2.148857&amp;fspn=0.136005,0.220757&amp;z=12" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.upc.edu/" target="_blank">Link </a>de la universidad</font></li></ul></div></div></div></div></div><div dir="ltr"></div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>2.113109,41.389206,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Politécnica de Catalunya (EPSEM)</name>
+    <description><![CDATA[<h2></h2><font face="times new roman,serif" size="2"><a href="http://www.epsem.upc.edu/?set_language=es" target="_blank"><u><b><span>Escuela Politécnica Superior de Ingeniería de Manresa</span></b></u></a></font><font face="times new roman,serif" size="2"><span><b><a href="http://www.epsem.upc.edu/?set_language=es" target="_blank"><br></a></b><br></span><u>Titulación:</u><br></font><p><font face="times new roman,serif" size="2"><a href="http://www.upc.edu/grau/fitxa_grau.php?id_estudi=243&amp;lang=es" target="_blank">Grado en Ingeniería de Sistemas TIC</a><br></font></p><p><font face="times new roman,serif" size="2"><u><br></u></font></p><p><font face="times new roman,serif" size="2"><u>Asignaturas</u><br>- <a href="http://www.upc.edu/estudispdf/guia_docent.php?codi=330120&amp;lang=esp" target="_blank">Seguridad y Secreto en la Codificación de la Información</a><br>- </font><font face="times new roman,serif"><a href="http://www.upc.edu/estudispdf/guia_docent.php?codi=330239&amp;lang=esp" target="_blank">Aplicaciones y Servicios Sobre Internet</a></font></p><p><font face="times new roman,serif"><a href="http://www.upc.edu/estudispdf/guia_docent.php?codi=330239&amp;lang=esp" target="_blank"><br></a></font></p><p><font face="times new roman,serif" size="2">Más información:<br></font></p><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en BOE: No aparece a 10/2013</font></font></li><li><font face="times new roman,serif" size="2"><a href="http://www.eltiempo.es/en-provincia-barcelona/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif" size="2"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+barcelona&amp;hl=es&amp;ie=UTF8&amp;ll=41.38634,2.148857&amp;spn=0.136005,0.220757&amp;sll=40.358694,-3.904288&amp;sspn=0.008633,0.013797&amp;hq=residencias+de+estudiantes&amp;hnear=Barcelona,+Catalu%C3%B1a&amp;t=m&amp;fll=41.38634,2.148857&amp;fspn=0.136005,0.220757&amp;z=12" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif" size="2"><a href="http://www.upc.edu/" target="_blank">Link </a>de la universidad</font></li></ul><p><br></p>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>1.828537,41.736736,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Politécnica de Cataluña (CITM)</name>
+    <description><![CDATA[<div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr"><font face="times new roman,serif"><u><a href="http://www.citm.upc.edu/esp/" target="_blank"><b>Centro de la Imágen y la Tecnología Multimédia<br></b></a><br>Titulación:</u><br><a href="http://www.citm.upc.edu/esp/estudis/grau-multimedia/?gclid=CKaviMm--rcCFe7JtAodojsAVQ" target="_blank">Grado en Multimedia</a><a target="_blank"><br></a><br><u>Asignatura</u><br>- <a href="http://www.upc.edu/estudispdf/guia_docent.php?codi=804038&amp;lang=esp" target="_blank">Arquitectura y Seguridad de Redes Informáticas</a><br></font><font face="times new roman,serif"><br>Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en BOE: No aparece a 10/2013</font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-barcelona/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencia+estudiantes+terrassa,+barcelona&amp;hl=es&amp;ie=UTF8&amp;ll=41.555128,2.024531&amp;spn=0.021838,0.045447&amp;sll=41.55906,2.016555&amp;sspn=0.010918,0.022724&amp;hq=residencia+estudiantes&amp;hnear=Terrassa,+Barcelona,+Catalu%C3%B1a&amp;t=m&amp;fll=41.554293,2.025218&amp;fspn=0.021838,0.045447&amp;z=15" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.upc.edu/" target="_blank">Link </a>de la universidad</font></li></ul></div></div></div></div></div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>2.019738,41.562164,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Politécnica de Cataluña (ETSETB)</name>
+    <description><![CDATA[<div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr"><font face="times new roman,serif"><u><a href="http://www.etsetb.upc.es/es/" target="_blank"><b>Escuela Técnica Superior de Ingeniería de Barcelona</b></a><br><br>Titulación:</u><br><a href="http://www.upc.edu/grau/fitxa_grau.php?id_estudi=251&amp;lang=es" target="_blank">Grado en Ingeniería Telemática</a><br><br><u>Asignatura</u><br>- <a href="http://www.upc.edu/estudispdf/guia_docent.php?codi=230046&amp;lang=esp" target="_blank">Criptografía, Seguridad y Codificación de la Información</a><br>-</font><font face="times new roman,serif"> <a href="http://www.upc.edu/estudispdf/guia_docent.php?codi=230152&amp;lang=esp" target="_blank">Codificación y Seguridad de la Información</a><br><br>Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en BOE: No aparece a 10/2013</font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-barcelona/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+barcelona&amp;hl=es&amp;ie=UTF8&amp;ll=41.38634,2.148857&amp;spn=0.136005,0.220757&amp;sll=40.358694,-3.904288&amp;sspn=0.008633,0.013797&amp;hq=residencias+de+estudiantes&amp;hnear=Barcelona,+Catalu%C3%B1a&amp;t=m&amp;fll=41.38634,2.148857&amp;fspn=0.136005,0.220757&amp;z=12" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.upc.edu/" target="_blank">Link </a>de la universidad</font></li></ul></div></div></div></div></div>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>2.116622,41.389042,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Politécnica de Cataluña (EITAC)</name>
+    <description><![CDATA[<div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr"><font face="times new roman,serif"><u><a href="http://eetac.upc.edu/ca/node/53" target="_blank"><b>Escuela de Ingeniería de Telecomunicación y Aeroespacial de Castelldefels<br></b></a><br>Titulación:</u><br><a href="http://www.upc.edu/grau/fitxa_grau.php?id_estudi=206&amp;lang=es" target="_blank">Grado en Ingeniería Telemática</a><br><br><u>Asignatura</u><br>- <a href="http://www.upc.edu/estudispdf/guia_docent.php?codi=300049&amp;lang=esp" target="_blank">Seguridad en Redes</a><br></font><font face="times new roman,serif"><br>Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en BOE: No aparece a 10/2013</font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-barcelona/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+barcelona&amp;hl=es&amp;ie=UTF8&amp;ll=41.38634,2.148857&amp;spn=0.136005,0.220757&amp;sll=40.358694,-3.904288&amp;sspn=0.008633,0.013797&amp;hq=residencias+de+estudiantes&amp;hnear=Barcelona,+Catalu%C3%B1a&amp;t=m&amp;fll=41.38634,2.148857&amp;fspn=0.136005,0.220757&amp;z=12" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.upc.edu/" target="_blank">Link </a>de la universidad</font></li></ul></div></div></div></div></div>]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>1.985693,41.275211,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Pompeu Fabra</name>
+    <description><![CDATA[<div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.upf.edu/estudiants/es/titulacions/enginyeries/grau-eng_informatica/pla/" target="_blank">Grado en Ingeniería Informática</a><br><br><u>Asignatura</u><br>- <a href="http://www.upf.edu/pra/es/3377/21474.pdf" target="_blank">Estratégias de Seguridad en Redes y Servicios</a><br><br>Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2013/04/09/pdfs/BOE-A-2013-3774.pdf" target="_blank">BOE</a></font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-barcelona/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+barcelona&amp;hl=es&amp;ie=UTF8&amp;ll=41.38634,2.148857&amp;spn=0.136005,0.220757&amp;sll=40.358694,-3.904288&amp;sspn=0.008633,0.013797&amp;hq=residencias+de+estudiantes&amp;hnear=Barcelona,+Catalu%C3%B1a&amp;t=m&amp;fll=41.38634,2.148857&amp;fspn=0.136005,0.220757&amp;z=12" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.upf.edu/es/" target="_blank">Link </a>de la universidad</font></li></ul></div></div></div></div></div></div>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>2.194232,41.402988,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Pompeu Fabra</name>
+    <description><![CDATA[<div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.upf.edu/estudiants/es/titulacions/enginyeries/grau-eng_telematica/pla/" target="_blank">Grado en&nbsp; Ingeniería Telemática</a><br><br><u>Asignatura</u><br>- <a href="http://www.upf.edu/pra/3376/21743.pdf" target="_blank">Estrategias de Seguridad en Redes y Servicios</a><br><br>Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2013/04/09/pdfs/BOE-A-2013-3776.pdf" target="_blank">BOE</a></font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-barcelona/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+barcelona&amp;hl=es&amp;ie=UTF8&amp;ll=41.38634,2.148857&amp;spn=0.136005,0.220757&amp;sll=40.358694,-3.904288&amp;sspn=0.008633,0.013797&amp;hq=residencias+de+estudiantes&amp;hnear=Barcelona,+Catalu%C3%B1a&amp;t=m&amp;fll=41.38634,2.148857&amp;fspn=0.136005,0.220757&amp;z=12" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.upf.edu/es/" target="_blank">Link </a>de la universidad</font></li></ul></div></div></div></div></div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>2.194294,41.402969,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Ramon Llull</name>
+    <description><![CDATA[<div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.salleurl.edu/pestanya?idSec_formacion=329&amp;idMenu=375&amp;idFather=357&amp;idSec_tipoFormacion=GRA" target="_blank">Grado en Ingeniería Informática</a><br><u>Asignatura</u><br>- <a href="http://www.salleurl.edu/pestanya?idSec_formacion=329&amp;idMenu=375&amp;idFather=357&amp;idSec_tipoFormacion=GRA" target="_blank">Seguridad en las TIC</a><br></font><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en BOE: No aparece a 10/2013</font></font><br><br><font face="times new roman,serif"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.salleurl.edu/WCM_Front/Formaciones/Pestanyes/_FHq0KEgb-SQ8r7JBEag5ooPB6h93h7kGtLd18dSKeha5LKvLQ8KH2d_arpbWIEppCfRyVuYFvHae3hW1eh6XS2ybRcyFdFIR56yKFnchp-0N23MTKpy-1g" target="_blank">Grado en Ingeniería Multimedia</a><br><u>Asignatura</u><br>- <a href="http://www.salleurl.edu/WCM_Front/Formaciones/Pestanyes/_FHq0KEgb-SQ8r7JBEag5ooPB6h93h7kGtLd18dSKeha5LKvLQ8KH2d_arpbWIEppCfRyVuYFvHae3hW1eh6XS2ybRcyFdFIR56yKFnchp-0N23MTKpy-1g" target="_blank">Seguridad en las TIC</a><br></font></font><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en BOE: No aparece a 10/2013<br><br></font></font></font>Más información:<br></font><ul><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-barcelona/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+barcelona&amp;hl=es&amp;ie=UTF8&amp;ll=41.38634,2.148857&amp;spn=0.136005,0.220757&amp;sll=40.358694,-3.904288&amp;sspn=0.008633,0.013797&amp;hq=residencias+de+estudiantes&amp;hnear=Barcelona,+Catalu%C3%B1a&amp;t=m&amp;fll=41.38634,2.148857&amp;fspn=0.136005,0.220757&amp;z=12" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.url.es/" target="_blank">Link </a>de la universidad</font></li></ul></div></div></div></div></div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>2.131262,41.411964,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Ramon LLull</name>
+    <description><![CDATA[<div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.salleurl.edu/WCM_Front/Formaciones/Pestanyes/_FHq0KEgb-SQ8r7JBEag5ooPB6h93h7kGtLd18dSKeha5LKvLQ8KH2d_arpbWIEppGlnER9bKDg7jvCtBaJdapuVZHouTaUXH-0eiTe_WpQg" target="_blank">Grado en Ingeniería Telemática</a><br><u>Asignatura</u><br>- <a href="http://www.salleurl.edu/WCM_Front/Formaciones/Pestanyes/_FHq0KEgb-SQ8r7JBEag5ooPB6h93h7kGtLd18dSKeha5LKvLQ8KH2d_arpbWIEppGlnER9bKDg7jvCtBaJdapuVZHouTaUXH-0eiTe_WpQg" target="_blank">Seguridad en las TIC</a><br></font><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en BOE: No aparece a 10/2013<br><br></font></font><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.salleurl.edu/WCM_Front/Formaciones/Pestanyes/_FHq0KEgb-SRqCt6to9pQIcKJeMaD6WTcCNWSPyQYc9_oGg7ZBnyEyRIV1ZwbnDktwnT9NBDZnPHZ7C4GmmJ9coIXj8EQMbwP1whxBPUlrwoWJ7OmDRu44WbcYQA45p6HgNBW2lf8GtMNS99jjv7Jg6ccF4j6HnEoPNI_ao29xUk" target="_blank">Grado en Ingeniería de Sistemas de Telecomunicación</a><br><u>Asignatura</u><br>- <a href="http://www.salleurl.edu/WCM_Front/Formaciones/Pestanyes/_FHq0KEgb-SRqCt6to9pQIcKJeMaD6WTcCNWSPyQYc9_oGg7ZBnyEyRIV1ZwbnDktwnT9NBDZnPHZ7C4GmmJ9coIXj8EQMbwP1whxBPUlrwoWJ7OmDRu44WbcYQA45p6HgNBW2lf8GtMNS99jjv7Jg6ccF4j6HnEoPNI_ao29xUk" target="_blank">Seguridad en las TIC</a></font><br><font face="times new roman,serif"><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en BOE: No aparece a 10/2013<br><br></font></font>Más información:<br></font><ul><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-barcelona/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+barcelona&amp;hl=es&amp;ie=UTF8&amp;ll=41.38634,2.148857&amp;spn=0.136005,0.220757&amp;sll=40.358694,-3.904288&amp;sspn=0.008633,0.013797&amp;hq=residencias+de+estudiantes&amp;hnear=Barcelona,+Catalu%C3%B1a&amp;t=m&amp;fll=41.38634,2.148857&amp;fspn=0.136005,0.220757&amp;z=12" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.url.es/" target="_blank">Link </a>de la universidad</font></li></ul></div></div></div></div></div>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>2.130393,41.407833,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Rovira i Virgili</name>
+    <description><![CDATA[<div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.urv.cat/cae/graus/es_graudenginyeriainformatica.htm" target="_blank">Grado en Ingeniería Informática</a><br><br><u>Asignatura</u><br>- <a href="https://moodle.urv.net/docnet/guia_docent/index.php?centre=17&amp;ensenyament=1723&amp;assignatura=17234120&amp;any_academic=2012_13" target="_blank">Seguridad en Redes</a><br><br>Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en <a href="http://www.boe.es/boe/dias/2013/07/30/pdfs/BOE-A-2013-8368.pdf" target="_blank">BOE</a></font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-tarragona/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+tarragona&amp;hl=es&amp;ie=UTF8&amp;ll=41.116801,1.252527&amp;spn=0.034142,0.055189&amp;sll=41.402823,2.148857&amp;sspn=0.103008,0.220757&amp;hq=residencias+de+estudiantes&amp;hnear=Tarragona,+Catalu%C3%B1a&amp;t=m&amp;fll=41.116801,1.252527&amp;fspn=0.034142,0.055189&amp;z=14" target="_blank">Residencias</a><a target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.urv.cat/" target="_blank">Link </a>de la universidad</font></li></ul></div></div></div></div></div>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>1.260137,41.119801,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad de Vic</name>
+    <description><![CDATA[<div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr" align="left"><div dir="ltr"><font face="times new roman,serif"><u>Titulación:</u><br><a href="http://www.uvic.es/es/estudi/multimedia" target="_blank">Grado en Multimedia</a><br><br><u>Asignatura</u><br>- <a href="http://www.uvic.es/es/assignatura/2412" target="_blank">Seguridad y Criptografía</a><br><br>Más información:<br></font><ul><li><font face="times new roman,serif"><font face="times new roman,serif">Plan de Estudios en BOE: No aparece a 10/2013</font></font></li><li><font face="times new roman,serif"><a href="http://www.eltiempo.es/en-provincia-barcelona/" target="_blank">El Tiempo</a><br></font></li><li><font face="times new roman,serif"><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+en+vic,+catalu%C3%B1a&amp;hl=es&amp;ie=UTF8&amp;ll=41.928751,2.252541&amp;spn=0.017273,0.038581&amp;oe=utf-8&amp;client=firefox-a&amp;hq=residencias+de+estudiantes&amp;hnear=Vic,+Barcelona,+Catalunya&amp;t=m&amp;fll=41.928751,2.252541&amp;fspn=0.017273,0.038581&amp;z=15" target="_blank">Residencias</a><a href="https://maps.google.es/maps?q=residencias+de+estudiantes+en+vic,+catalu%C3%B1a&amp;hl=es&amp;ie=UTF8&amp;ll=41.928751,2.252541&amp;spn=0.017273,0.038581&amp;oe=utf-8&amp;client=firefox-a&amp;hq=residencias+de+estudiantes&amp;hnear=Vic,+Barcelona,+Catalunya&amp;t=m&amp;fll=41.928751,2.252541&amp;fspn=0.017273,0.038581&amp;z=15" target="_blank"> </a>de estudiantes</font></li><li><font face="times new roman,serif"><a href="http://www.uvic.es/" target="_blank">Link </a>de la universidad</font></li></ul></div></div></div></div></div></div>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>2.247375,41.933769,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
